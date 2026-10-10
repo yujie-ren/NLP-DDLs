@@ -52,18 +52,6 @@ Date format: **"yy-mm-dd"**
 
 
 ## Contents - Past Deadlines
-- NLP
-  - [ACL ](#acl)
-  - [EMNLP ](#emnlp)
-  - [NAACL ](#naacl)
-  - [EACL ](#eacl)
-  - [COLING ](#coling)
-- AI
-  - [NeurIPS ](#neurips)
-  - [ICML ](#icml)
-  - [ICLR ](#iclr)
-  - [AAAI ](#aaai)
-  - [IJCAI ](#ijcai)
 
 
 ### ACL
