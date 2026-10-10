@@ -15,7 +15,7 @@ Date format: **"yy-mm-dd"**
 ## NLP DDLs
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
-|[NAACL-25](https://2025.naacl.org/)            |~~2024-10-15~~|  |~~2025-01-22~~|~~2025-04–29~~| Merico, North America |
+|[NAACL-25](https://2025.naacl.org/)            |2024-10-15|  |2025-01-22|2025-04–29| Merico, North America |
 |[ACL-25](https://2025.aclweb.org/)             |~~2025-02-15~~|  |~~2025-05-15~~|~~2025-07-27~~| Vienna, Europe |
 |[EMNLP-25](https://2025.emnlp.org/)            |~~2025-05-19~~|  |~~2025-08-20~~|~~2025-11-05~~|  Suzhou, China |
 |[EACL-26](https://2026.eacl.org/)              |~~2025-12-14~~|  |~~2026-01-03~~|~~2026-03-24~~|  Morocco, Africa |
