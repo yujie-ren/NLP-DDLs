@@ -29,15 +29,15 @@ Date format: **"yy-mm-dd"**
 
 
 ## ML DDLs
-|  Conf  | Submission    | Commitment|   Notification  |   Conference  |  Location  |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[NeurIPS-24](https://neurips.cc/Conferences/2024)       | 2024-05-15 |  | 2024-09-25 | 2024-12-10 | Vancouver, Canada |
-|[ICLR-25](https://iclr.cc/Conferences/2025)             | 2024-09-27 |  | 2025-01-22 | 2025-04-24 | Singapore |
-|[ICML-25](https://icml.cc/Conferences/2025)             | 2025-01-23 |  | 2025-05-01 | 2025-07-13 | Vancouver, Canada |
-|[NeurIPS-25](https://neurips.cc/Conferences/2025)       | 2025-05-11 |  | 2025-09-18 | 2025-11-30 | San Diego, CA |
-|[ICLR-26](https://iclr.cc/Conferences/2026)             | 2025-09-19 |  | 2026-01-25 | 2026-04-23 | Brazil |
-|[ICML-26](https://icml.cc/Conferences/2026)             | 2026-01-23 |  | 2026-04-30 | 2026-07-07 | South Korea |
-|[NeurIPS-26](https://neurips.cc/Conferences/2026)       | 2026-05-04 |  | 2026-09-24 | 2026-12-08 | Sydney, Australia |
+|[NeurIPS-24](https://neurips.cc/Conferences/2024)       | 2024-05-15 | 2024-07-30 | 2024-09-25 | 2024-12-10 | Vancouver, Canada |
+|[ICLR-25](https://iclr.cc/Conferences/2025)             | 2024-09-27 | 2024-11-13 | 2025-01-22 | 2025-04-24 | Singapore |
+|[ICML-25](https://icml.cc/Conferences/2025)             | 2025-01-23 | 2025-03-25 | 2025-05-01 | 2025-07-13 | Vancouver, Canada |
+|[NeurIPS-25](https://neurips.cc/Conferences/2025)       | 2025-05-11 | 2025-07-24 | 2025-09-18 | 2025-11-30 | San Diego, CA |
+|[ICLR-26](https://iclr.cc/Conferences/2026)             | 2025-09-19 | 2025-11-11 | 2026-01-25 | 2026-04-23 | Brazil |
+|[ICML-26](https://icml.cc/Conferences/2026)             | 2026-01-23 | 2026-03-24 | 2026-04-30 | 2026-07-07 | South Korea |
+|[NeurIPS-26](https://neurips.cc/Conferences/2026)       | 2026-05-04 | 2026-07-22 | 2026-09-24 | 2026-12-08 | Sydney, Australia |
 |[ICLR-27]()                                             | 2026-09 (expected) |  |  |  |  |
 |[ICML-27]()                                             | 2027-01 (expected) |  |  |  |  |
 |[NeurIPS-27]()                                          | 2027-05 (expected) |  |  |  |  |
