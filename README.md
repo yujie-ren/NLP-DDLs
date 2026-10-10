@@ -25,7 +25,7 @@ Date format: **"yy-mm-dd"**
 |[NAACL-27](https://2027.naacl.org/)            | 2026-10-12 | 2026-12-13 | 2027-02-10 | 2027-06-01 | San Francisco, US |
 |[COLING-27](https://2027.coling-iccl.org/)     | 2026-10-12 | 2026-12-13 | 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 |    | TBA | 2027-08-17 | Kyoto, Japan |
-|[EMNLP-27]()                                   | 2027-05 (expected) |  |  |  |  |
+|[EMNLP-27]()                                   | 2027-05 (e) |  |  |  |  |
 
 
 ## ML DDLs
