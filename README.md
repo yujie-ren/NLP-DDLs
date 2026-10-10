@@ -15,15 +15,15 @@ Date format: **"yy-mm-dd"**
 ## NLP DDLs
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
-|[NAACL-25](https://2025.naacl.org/)            | 2024-10-15 |    | 2025-01-22 | 2025-04–29 | Merico, North America |
-|[ACL-25](https://2025.aclweb.org/)             | 2025-02-15 |    | 2025-05-15 | 2025-07-27 | Vienna, Europe |
-|[EMNLP-25](https://2025.emnlp.org/)            | 2025-05-19 |    | 2025-08-20 | 2025-11-05 | Suzhou, China |
-|[EACL-26](https://2026.eacl.org/)              | 2025-12-14 |    | 2026-01-03 | 2026-03-24 | Morocco, Africa |
-|[ACL-26](https://2026.aclweb.org/)             | 2026-01-05 |    | 2026-04-04 | 2026-07-02 | San Diego, North America |
-|[EMNLP-26](https://2026.emnlp.org/)            | 2026-05-25 |    | 2026-08-20 | 2026-10-24 | Budapest, Europe |
-|[EACL-27](https://2027.eacl.org/)              | 2026-08-03 |    | 2026-11-12 | 2027-03-09 | Athens, Europe |
-|[NAACL-27](https://2027.naacl.org/)            | 2026-10-12 |    | 2026-12 (expected) | 2027-06-01 | San Francisco, US |
-|[COLING-27](https://2027.coling-iccl.org/)     | 2026-10-12 |    | 2027-02-10 | 2027-05-09 | Macau, China |
+|[NAACL-25](https://2025.naacl.org/)            | 2024-10-15 | 2024-12-16 | 2025-01-22 | 2025-04–29 | Merico, North America |
+|[ACL-25](https://2025.aclweb.org/)             | 2025-02-15 | 2025-04-20 | 2025-05-15 | 2025-07-27 | Vienna, Europe |
+|[EMNLP-25](https://2025.emnlp.org/)            | 2025-05-19 | 2025-08-01 | 2025-08-20 | 2025-11-05 | Suzhou, China |
+|[EACL-26](https://2026.eacl.org/)              | 2025-10-06 | 2025-12-14 | 2026-01-03 | 2026-03-24 | Morocco, Africa |
+|[ACL-26](https://2026.aclweb.org/)             | 2026-01-05 | 2026-03-14 | 2026-04-04 | 2026-07-02 | San Diego, North America |
+|[EMNLP-26](https://2026.emnlp.org/)            | 2026-05-25 | 2026-08-02 | 2026-08-20 | 2026-10-24 | Budapest, Europe |
+|[EACL-27](https://2027.eacl.org/)              | 2026-08-03 | 2026-10-11 | 2026-11-12 | 2027-03-09 | Athens, Europe |
+|[NAACL-27](https://2027.naacl.org/)            | 2026-10-12 | 2026-12-13 | 2027-02-10 | 2027-06-01 | San Francisco, US |
+|[COLING-27](https://2027.coling-iccl.org/)     | 2026-10-12 | 2026-12-13 | 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 |    | TBA | 2027-08-17 | Kyoto, Japan |
 |[EMNLP-27]()                                   | 2027-05 (expected) |  |  |  |  |
 
