@@ -24,6 +24,7 @@ Date format: **"yy-mm-dd"**
 |[EMNLP-26](https://2026.emnlp.org/)            |~~2026-05-25~~| 2026-08-20 | 2026-10-24 | Budapest, Europe |
 |[EACL-27](https://2027.eacl.org/)              |2026-08-03| 2026-11-12 | 2027-03-09 | Athens, Europe |
 |[NAACL-27](https://2027.naacl.org/)            |2026-10-12| 2026-12 (expected) | 2027-06-01 | San Francisco, US |
+|[COLING-27](https://2027.coling-iccl.org/)     |2026-10-12| 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             |2027-01-04| TBA | 2027-08-17 | Kyoto, Japan |
 |[EMNLP-27]()                                   |2027-05 (expected)|  |  |  |
 
