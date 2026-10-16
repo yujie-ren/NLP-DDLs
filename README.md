@@ -1,6 +1,3 @@
-Record past deadlines to predict future ones.
-Date format: **"yy-mm-dd"**
-
 
 ## ARR DDLs
 [ARR-2026](https://aclrollingreview.org/dates)
