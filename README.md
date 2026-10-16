@@ -17,8 +17,8 @@
 |[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
 |[NAACL-27](https://2027.naacl.org/)            | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-06-01 | San Francisco, US |
 |[COLING-27](https://2027.coling-iccl.org/)     | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-05-09 | Macau, China |
-|[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 |    | TBA | 2027-08-17 | Kyoto, Japan |
-|[EMNLP-27]()                                   | 2027-05 (e) |  |  |  |  |
+|[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 | 2027-03 (e) | 2027-04 (e) | 2027-08-17 | Kyoto, Japan |
+|[EMNLP-27]()                                   | 2027-05 (e) | 2027-08 (e) | 2027-08 (e) | 2027-11 (e) | TBA |
 
 
 ## Confs not in ARR
@@ -28,9 +28,9 @@
 |[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
 |[COLM-26](https://colm.cc/Conferences/2026)            | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | San Francisco, US |
 |[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
-|[IJCAI-27]()                                            | 2027-01 (e) |  |  |  |  |
-|[COLM-27]()                                             | 2027-03 (e) |  |  |  |  |
-|[ECAI-27]()                                             | 2027-04 (e) |  |  | 2027-10 (e) | Athens, Greece |
+|[IJCAI-27]()                                            | 2027-01 (e) | 2027-04 (e) | 2027-04 (e) | 2027-08 (e) | TBA |
+|[COLM-27]()                                             | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | 2027-10 (e) | TBA |
+|[ECAI-27]()                                             | 2027-04 (e) | 2027-06 (e) | 2027-07 (e) | 2027-10 (e) | Athens, Greece |
 
 
 ## ML Confs
@@ -40,8 +40,8 @@
 |[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | South Korea |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>2026-05-04</sub> | <sub>2026-07-22</sub> | <sub>2026-09-24</sub> | 2026-12-08 | Sydney, Australia |
 |[ICLR-27](https://iclr.cc/Conferences/2027)             | <sub>2026-09-18</sub> | 2026-11-05 | 2026-12-16 | 2027-04-26 | California, US |
-|[ICML-27]()                                             | 2027-01 (e) |  |  |  | South America (TBA) |
-|[NeurIPS-27]()                                          | 2027-05 (e) |  |  |  | Europe (TBA) |
+|[ICML-27]()                                             | 2027-01 (e) | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | South America (TBA) |
+|[NeurIPS-27]()                                          | 2027-05 (e) | 2027-07 (e) | 2027-09 (e) | 2027-12 (e) | Europe (TBA) |
 
 ## CV Confs
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
@@ -50,7 +50,8 @@
 |[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | Denver, US |
 |[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | Malmö, Sweden |
 |[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | 2026-11-10 | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
-|[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) |  |  | 2027-10-03 | Hong Kong, China |
+|[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) | 2027-05 (e) | 2027-06 (e) | 2027-10-03 | Hong Kong, China |
+|[ECCV-28]()                                             | 2028-02 (e) | 2028-05 (e) | 2028-06 (e) | 2028-09 (e) | TBA |
 
 
 ## Conf Rankings
