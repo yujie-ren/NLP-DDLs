@@ -178,11 +178,11 @@
 ### IJCAI
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[IJCAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
 |[IJCAI-25](https://2025.ijcai.org/) | <sub>2025-01-16</sub> | <sub>2025-04-06</sub> | <sub>2025-04-28</sub> | <sub>2025-08-16</sub> | Montreal, Canada |
 |[IJCAI-24](https://ijcai24.org/) | <sub>2024-01-10</sub> | <sub>2024-03-18</sub> | <sub>2024-04-16</sub> | <sub>2024-08-03</sub> | Jeju, Korea |
 |[IJCAI-23](https://ijcai-23.org/) | <sub>2023-01-11</sub> | <sub>2023-03-20</sub> | <sub>2023-04-19</sub> | <sub>2023-08-19</sub> | Macao, China |
-|[IJCAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | Vienna, Austria |
+|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | Vienna, Austria |
 |[IJCAI-21](https://ijcai-21.org/) | <sub>2021-01-13</sub> | <sub>2021-03-24</sub> | <sub>2021-04-30</sub> | <sub>2021-08-19</sub> | Virtual |
 
 
