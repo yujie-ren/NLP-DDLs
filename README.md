@@ -82,7 +82,7 @@
 |[EMNLP-24](https://2024.emnlp.org/) | 2024-06-15 | 2024-08-20 | 2024-09-20 | 2024-11-12 | Miami, US |
 |[EMNLP-23](https://2023.emnlp.org/) | 2023-06-16 | 2023-08-22 | 2023-10-06 | 2023-12-06 | Singapore |
 |[EMNLP-22](https://2022.emnlp.org/) | 2022-06-17 | 2022-07-24 | 2022-10-06 | 2022-12-07 | Abu Dhabi, UAE |
-|[EMNLP-21](https://2021.emnlp.org/) | 2021-05-10 | - | 2021-08-25 | 2021-11-07 | Punta Cana, Dominican Republic |
+|[EMNLP-21](https://2021.emnlp.org/) | 2021-05-10 | - | 2021-08-25 | 2021-11-07 | Dominican |
 
 
 ### NAACL
