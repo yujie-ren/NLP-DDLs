@@ -24,6 +24,16 @@
 ## Confs not in ARR
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)    | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | Singapore |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
+|[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
+|[IJCAI-27]()                                            | 2027-01 (e) |  |  |  |  |
+|[ECAI-27]()                                             | 2027-04 (e) |  |  | 2027-10 (e) | Athens, Greece |
+
+
+## ML Confs
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
 |[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>2025-09-19</sub> | <sub>2025-11-11</sub> | <sub>2026-01-25</sub> | <sub>2026-04-23</sub> | Brazil |
 |[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | South Korea |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>2026-05-04</sub> | <sub>2026-07-22</sub> | <sub>2026-09-24</sub> | 2026-12-08 | Sydney, Australia |
@@ -33,10 +43,10 @@
 
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|
-| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|A |
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |B |
 
 
 
