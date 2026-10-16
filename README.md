@@ -9,7 +9,7 @@
 |2026-10  |  <sub>2026-10-12</sub>  |  2026-11-16    |      2026-11-24    |  2026-12-17    |
 
 
-## NLP DDLs
+## Confs in ARR
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
 |[EMNLP-25](https://2025.emnlp.org/)            | <sub>2025-05-19</sub> | <sub>2025-08-01</sub> | <sub>2025-08-20</sub> | <sub>2025-11-05</sub> | Suzhou, China |
@@ -23,7 +23,7 @@
 |[EMNLP-27]()                                   | 2027-05 (e) |  |  |  |  |
 
 
-## ML DDLs
+## Confs not in ARR
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
 |[NeurIPS-24](https://neurips.cc/Conferences/2024)       | <sub>2024-05-15</sub> | <sub>2024-07-30</sub> | <sub>2024-09-25</sub> | <sub>2024-12-10</sub> | Vancouver, Canada |
