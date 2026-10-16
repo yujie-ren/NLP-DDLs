@@ -190,11 +190,11 @@
 ### ECAI
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
 |[ECAI-25](https://ecai2025.org/) | <sub>2025-04-29</sub> | <sub>2025-06-23</sub> | <sub>2025-07-10</sub> | <sub>2025-10-25</sub> | Bologna, Italy |
 |[ECAI-24](https://ecai2024.eu/) | <sub>2024-04-19</sub> | <sub>2024-06-17</sub> | <sub>2024-07-04</sub> | <sub>2024-10-19</sub> | Spain |
 |[ECAI-23](https://ecai2023.syskonf.pl/) | <sub>2023-05-02</sub> | <sub>2023-06-25</sub> | <sub>2023-07-15</sub> | <sub>2023-09-30</sub> | Kraków, Poland |
-|[ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | Vienna, Austria |
+|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | Vienna, Austria |
 |ECAI-21 | - | - | - | - | - |
 
 
