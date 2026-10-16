@@ -43,6 +43,15 @@
 |[ICML-27]()                                             | 2027-01 (e) |  |  |  | South America (TBA) |
 |[NeurIPS-27]()                                          | 2027-05 (e) |  |  |  | Europe (TBA) |
 
+## CV Confs
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ICCV-25](https://iccv.thecvf.com/Conferences/2025)     | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | Honolulu, US |
+|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | Denver, US |
+|[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | Malmö, Sweden |
+|[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | 2026-11-10 | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
+|[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) |  |  | 2027-10-03 | Hong Kong, China |
+
 
 ## Conf Rankings
 |  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|
@@ -166,7 +175,7 @@
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
 |[ECAI-26](https://2026.ijcai.org/) | 2026-01-12 | 2026-04-07 | 2026-04-29 | 2026-08-15 | Bremen, Germany |
 |[ECAI-25](https://ecai2025.org/) | 2025-04-29 | 2025-06-23 | 2025-07-10 | 2025-10-25 | Bologna, Italy |
-|[ECAI-24](https://ecai2024.eu/) | 2024-04-19 | 2024-06-17 | 2024-07-04 | 2024-10-19 | Santiago de Compostela, Spain |
+|[ECAI-24](https://ecai2024.eu/) | 2024-04-19 | 2024-06-17 | 2024-07-04 | 2024-10-19 | Spain |
 |[ECAI-23](https://ecai2023.syskonf.pl/) | 2023-05-02 | 2023-06-25 | 2023-07-15 | 2023-09-30 | Kraków, Poland |
 |[ECAI-22](https://ijcai-22.org/) | 2022-01-07 | 2022-03-16 | 2022-04-20 | 2022-07-23 | Vienna, Austria |
 |ECAI-21 | - | - | - | - | - |
@@ -178,3 +187,29 @@
 |[COLM-26](https://colm.cc/Conferences/2026) | 2026-03-26 | 2026-05-22 | 2026-07-08 | 2026-10-06 | San Francisco, US |
 |[COLM-25](https://colmweb.org/2025/) | 2025-03-22 | 2025-05-27 | 2025-07-07 | 2025-10-07 | Montreal, Canada |
 |[COLM-24](https://colmweb.org/2024/) | 2024-03-22 | 2024-05-24 | 2024-07-09 | 2024-10-07 | Philadelphia, US |
+
+### CVPR
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026) | 2025-11-07 | 2026-01-22 | 2026-02-20 | 2026-06-03 | Denver, US |
+|[CVPR-25](https://cvpr.thecvf.com/Conferences/2025) | 2024-11-08 | 2025-01-23 | 2025-02-26 | 2025-06-11 | Nashville, US |
+|[CVPR-24](https://cvpr.thecvf.com/Conferences/2024) | 2023-11-04 | 2024-01-24 | 2024-02-27 | 2024-06-17 | Seattle, US |
+|[CVPR-23](https://cvpr.thecvf.com/Conferences/2023) | 2022-11-04 | 2023-01-24 | 2023-02-27 | 2023-06-18 | Vancouver, Canada |
+|[CVPR-22](https://cvpr2022.thecvf.com/) | 2021-11-09 | 2022-01-24 | 2022-03-02 | 2022-06-19 | New Orleans, US |
+|[CVPR-21](https://cvpr2021.thecvf.com/) | 2020-11-09 | 2021-01-18 | 2021-02-28 | 2021-06-19 | Virtual |
+
+
+### ICCV
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ICCV-25](https://iccv.thecvf.com/Conferences/2025) | 2025-03-03 | 2025-05-09 | 2025-06-25 | 2025-10-19 | Honolulu, US |
+|[ICCV-23](https://iccv2023.thecvf.com/) | 2023-03-08 | 2023-05-23 | 2023-07-13 | 2023-10-02 | Paris, France |
+|[ICCV-21](https://iccv2021.thecvf.com/) | 2021-03-10 | 2021-06-10 | 2021-07-22 | 2021-10-11 | Virtual |
+
+
+### ECCV
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ECCV-26](https://eccv.ecva.net/Conferences/2026) | 2026-02-26 | 2026-05-02 | 2026-06-17 | 2026-09-08 | Malmö, Sweden |
+|[ECCV-24](https://eccv.ecva.net/Conferences/2024) | 2024-02-29 | 2024-05-09 | 2024-07-01 | 2024-09-29 | Milan, Italy |
+|[ECCV-22](https://eccv2022.ecva.net/) | 2022-03-07 | 2022-05-23 | 2022-07-03 | 2022-10-23 | Tel Aviv, Israel |
