@@ -56,125 +56,125 @@
 
 
 ### ACL
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[ACL-26](https://2026.aclweb.org/)  |2026-01-05  |2026-04-04  |2026-07-02  |
-|[ACL-25](https://2025.aclweb.org/)  |2025-02-15|2025-05-15|2025-07-27|
-|[ACL-24](https://2024.aclweb.org/)|2024-02-15|2024-05-15|2024-08–11|
-|[ACL-23](https://2023.aclweb.org/)|2022-12-15|2023-05-01|2023-07-09|
-|[ACL-22](https://2022.aclweb.org/)|2021-11-15|2022-02-23|2022-05-22|
-|[ACL-21](https://2021.aclweb.org/) |2021-01-25|2021-05-05|2021-08-01|
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ACL-26](https://2026.aclweb.org/) | 2026-01-05 | 2026-03-14 | 2026-04-04 | 2026-07-02 | San Diego, US |
+|[ACL-25](https://2025.aclweb.org/) | 2025-02-15 | 2025-04-20 | 2025-05-15 | 2025-07-27 | Vienna, Austria |
+|[ACL-24](https://2024.aclweb.org/) | 2024-02-15 | 2024-04-20 | 2024-05-15 | 2024-08-11 | Bangkok, Thailand |
+|[ACL-23](https://2023.aclweb.org/) | 2022-12-15 | 2023-03-17 | 2023-05-01 | 2023-07-09 | Toronto, Canada |
+|[ACL-22](https://2022.aclweb.org/) | 2021-11-15 | 2022-01-15 | 2022-02-23 | 2022-05-22 | Dublin, Ireland |
+|[ACL-21](https://2021.aclweb.org/) | 2021-01-25 | - | 2021-05-05 | 2021-08-01 | Virtual |
 
 
 ### EMNLP
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[EMNLP-25](https://2025.emnlp.org/) |2025-05-19|2025-08-20|2025-11-05|
-|[EMNLP-24](https://2024.emnlp.org/)|2024-06-15|2024-09-20|2024-11-12|
-|[EMNLP-23](https://2023.emnlp.org/)|2023-06-16|2023-10-06|2023-12-06|
-|[EMNLP-22](https://2022.emnlp.org/)|2022-06-17|2022-10-06|2022-12-07|
-|[EMNLP-21](https://2021.emnlp.org/)|2021-05-10|2021-08-25|2021-11-07|
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[EMNLP-25](https://2025.emnlp.org/) | 2025-05-19 | 2025-08-01 | 2025-08-20 | 2025-11-05 | Suzhou, China |
+|[EMNLP-24](https://2024.emnlp.org/) | 2024-06-15 | 2024-08-20 | 2024-09-20 | 2024-11-12 | Miami, US |
+|[EMNLP-23](https://2023.emnlp.org/) | 2023-06-16 | 2023-08-22 | 2023-10-06 | 2023-12-06 | Singapore |
+|[EMNLP-22](https://2022.emnlp.org/) | 2022-06-17 | 2022-07-24 | 2022-10-06 | 2022-12-07 | Abu Dhabi, UAE |
+|[EMNLP-21](https://2021.emnlp.org/) | 2021-05-10 | - | 2021-08-25 | 2021-11-07 | Punta Cana, Dominican Republic |
 
 
 ### NAACL
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[NAACL-25](https://2025.naacl.org/)  |2024-10-15|2025-01-22|2025-04–29|
-|[NAACL-24](https://2024.naacl.org/)  |2023-12-15|2024-03-15|2024-06-16|
-| NAACL-23                            |    -     |     -    |    -     |
-|[NAACL-22](https://2022.naacl.org/)  |2022-01-15|2022-04-07|2022-07-10|
-|[NAACL-21](https://2021.naacl.org/) |2020-11-23|2021-03-10|2021-06–06|
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[NAACL-25](https://2025.naacl.org/) | 2024-10-15 | 2024-12-16 | 2025-01-22 | 2025-04-29 | Albuquerque, US |
+|[NAACL-24](https://2024.naacl.org/) | 2023-12-15 | 2024-02-20 | 2024-03-15 | 2024-06-16 | Mexico City, Mexico |
+|NAACL-23 | - | - | - | - | - |
+|[NAACL-22](https://2022.naacl.org/) | 2022-01-15 | 2022-03-06 | 2022-04-07 | 2022-07-10 | Seattle, US |
+|[NAACL-21](https://2021.naacl.org/) | 2020-11-23 | - | 2021-03-10 | 2021-06-06 | Virtual |
 
 
 ### EACL
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[EACL-26](https://2026.eacl.org/) |2025-10-06|2026-01-03|2026-03-24|
-| EACL-25 |      -        |       -         |       -       |
-|[EACL-24](https://2024.eacl.org/) |2023-10-15|2024-01-17|2024-03-17|
-|[EACL-23](https://2023.eacl.org/) |2022-10-13|2023-01-20|2023-05-02|
-| EACL-22                          |    -     |     -    |    -     |
-|[EACL-21](https://2021.eacl.org/) |2020-10-07|2021-01-11|2021-04-19|
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[EACL-26](https://2026.eacl.org/) | 2025-10-06 | 2025-12-14 | 2026-01-03 | 2026-03-24 | Rabat, Morocco |
+|EACL-25 | - | - | - | - | - |
+|[EACL-24](https://2024.eacl.org/) | 2023-10-15 | 2023-12-20 | 2024-01-17 | 2024-03-17 | St. Julian's, Malta |
+|[EACL-23](https://2023.eacl.org/) | 2022-10-13 | 2023-01-08 | 2023-01-20 | 2023-05-02 | Dubrovnik, Croatia |
+|EACL-22 | - | - | - | - | - |
+|[EACL-21](https://2021.eacl.org/) | 2020-10-07 | - | 2021-01-11 | 2021-04-19 | Virtual |
 
 
 ### COLING
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[COLING-25](https://coling2025.org/)|2024-09-16|2024-11-29|2025-01-19|
-| [COLING-24](https://lrec-coling-2024.org/) |2023-10-20|2024-02-19|2024-05-20|
-|  COLING-23                           |       -       |        -        |       -       |
-| [COLING-22](https://coling2022.org/) |2022-05-17|2022-08-15|2022-10-12|
-| COLING-21 |      -        |        -        |      -        |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[COLING-25](https://coling2025.org/) | 2024-09-16 | - | 2024-11-29 | 2025-01-19 | Abu Dhabi, UAE |
+|[COLING-24](https://lrec-coling-2024.org/) | 2023-10-20 | - | 2024-02-19 | 2024-05-20 | Turin, Italy |
+|COLING-23 | - | - | - | - | - |
+|[COLING-22](https://coling2022.org/) | 2022-05-17 | - | 2022-08-15 | 2022-10-12 | Gyeongju, Korea |
+|COLING-21 | - | - | - | - | - |
 
 
 ### NeurIPS
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[NeurIPS-25](https://neurips.cc/Conferences/2025)|2025-05-11|2025-09-18|2025-11-30|
-|[NeurIPS-24](https://neurips.cc/Conferences/2024) |2024-05-15|2024-09-25|2024-12-09|
-|[NeurIPS-23](https://neurips.cc/Conferences/2023) |2023-05-11|2023-09-22|2023-12-10|
-|[NeurIPS-22](https://neurips.cc/Conferences/2022) |2022-05-16|2022-09-14|2022-11-28|
-|[NeurIPS-21](https://neurips.cc/Conferences/2021) |2021-05-21|2021-09-28|2021-12-06|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[NeurIPS-25](https://neurips.cc/Conferences/2025) | 2025-05-11 | 2025-07-24 | 2025-09-18 | 2025-11-30 | San Diego, US |
+|[NeurIPS-24](https://neurips.cc/Conferences/2024) | 2024-05-15 | 2024-07-30 | 2024-09-25 | 2024-12-09 | Vancouver, Canada |
+|[NeurIPS-23](https://neurips.cc/Conferences/2023) | 2023-05-11 | 2023-08-02 | 2023-09-22 | 2023-12-10 | New Orleans, US |
+|[NeurIPS-22](https://neurips.cc/Conferences/2022) | 2022-05-16 | 2022-07-26 | 2022-09-14 | 2022-11-28 | New Orleans, US |
+|[NeurIPS-21](https://neurips.cc/Conferences/2021) | 2021-05-21 | 2021-08-03 | 2021-09-28 | 2021-12-06 | Virtual |
 
 ### ICML
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[ICML-26](https://icml.cc/Conferences/2026)|2026-01-23|2026-04-30|2026-07-07|
-|[ICML-25](https://icml.cc/Conferences/2025)|2025-01-23|2025-05-01|2025-07-13|
-|[ICML-24](https://icml.cc/Conferences/2024) |2024-02-01|2024-05-01|2024-07-21|
-|[ICML-23](https://icml.cc/Conferences/2023) |2023-01-26|2023-04-24|2023-07-23|
-|[ICML-22](https://icml.cc/Conferences/2022) |2022-01-20|2022-05-14|2022-07-17|
-|[ICML-21](https://icml.cc/Conferences/2021/index.html) |2021-01-28|2021-05-08|2021-07-18|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ICML-26](https://icml.cc/Conferences/2026) | 2026-01-23 | 2026-03-24 | 2026-04-30 | 2026-07-07 | Seoul, Korea |
+|[ICML-25](https://icml.cc/Conferences/2025) | 2025-01-23 | 2025-03-25 | 2025-05-01 | 2025-07-13 | Vancouver, Canada |
+|[ICML-24](https://icml.cc/Conferences/2024) | 2024-02-01 | 2024-03-20 | 2024-05-01 | 2024-07-21 | Vienna, Austria |
+|[ICML-23](https://icml.cc/Conferences/2023) | 2023-01-26 | 2023-03-13 | 2023-04-24 | 2023-07-23 | Honolulu, US |
+|[ICML-22](https://icml.cc/Conferences/2022) | 2022-01-20 | 2022-04-06 | 2022-05-14 | 2022-07-17 | Baltimore, US |
+|[ICML-21](https://icml.cc/Conferences/2021/index.html) | 2021-01-28 | 2021-03-21 | 2021-05-08 | 2021-07-18 | Virtual |
 
 
 ### ICLR
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[ICLR-26](https://iclr.cc/Conferences/2026)|2025-09-19|2026-01-25|2026-04-23|
-|[ICLR-25](https://iclr.cc/Conferences/2025)|2024-09-27|2025-01-22|2025-04-24|
-|[ICLR-24](https://iclr.cc/Conferences/2024) |2023-09-23|2024-01-15|2024-05-07|
-|[ICLR-23](https://iclr.cc/Conferences/2023) |2022-09-21|2023-01-21|2023-05-01|
-|[ICLR-22](https://iclr.cc/Conferences/2022) |2021-09-29|2022-01-24|2022-04-25|
-|[ICLR-21](https://iclr.cc/Conferences/2021) |2020-09-28|2021-01-14|2021-05-03|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ICLR-26](https://iclr.cc/Conferences/2026) | 2025-09-19 | 2025-11-11 | 2026-01-25 | 2026-04-23 | Rio de Janeiro, Brazil |
+|[ICLR-25](https://iclr.cc/Conferences/2025) | 2024-09-27 | 2024-11-13 | 2025-01-22 | 2025-04-24 | Singapore |
+|[ICLR-24](https://iclr.cc/Conferences/2024) | 2023-09-23 | 2023-11-10 | 2024-01-15 | 2024-05-07 | Vienna, Austria |
+|[ICLR-23](https://iclr.cc/Conferences/2023) | 2022-09-21 | 2022-11-05 | 2023-01-21 | 2023-05-01 | Kigali, Rwanda |
+|[ICLR-22](https://iclr.cc/Conferences/2022) | 2021-09-29 | 2021-11-09 | 2022-01-24 | 2022-04-25 | Virtual |
+|[ICLR-21](https://iclr.cc/Conferences/2021) | 2020-09-28 | 2020-11-12 | 2021-01-14 | 2021-05-03 | Virtual |
 
 
 ### AAAI
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)|2025-07-25|2025-11-08|2026-01-20|
-|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|2024-08-07|2024-12-09|2025-02-25|
-|[AAAI-24](https://aaai.org/conference/aaai/aaai-24/) |2023-08-08|2023-12-09|2024-02-20|
-|[AAAI-23](https://aaai-23.aaai.org/) |2022-08-08|2022-11-18|2023-02-07|
-|[AAAI-22](https://aaai.org/conference/aaai/aaai-22/) |2021-08-30|2021-11-29|2022-02-22|
-|[AAAI-21](https://aaai.org/conference/aaai/aaai-21/) |2020-09-01|2020-12-01|2021-02-02|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) | 2025-07-25 | 2025-10-07 | 2025-11-08 | 2026-01-20 | Singapore |
+|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/) | 2024-08-07 | 2024-11-04 | 2024-12-09 | 2025-02-25 | Philadelphia, US |
+|[AAAI-24](https://aaai.org/conference/aaai/aaai-24/) | 2023-08-08 | 2023-11-02 | 2023-12-09 | 2024-02-20 | Vancouver, Canada |
+|[AAAI-23](https://aaai-23.aaai.org/) | 2022-08-08 | 2022-10-20 | 2022-11-18 | 2023-02-07 | Washington DC, US |
+|[AAAI-22](https://aaai.org/conference/aaai/aaai-22/) | 2021-08-30 | - | 2021-11-29 | 2022-02-22 | Virtual |
+|[AAAI-21](https://aaai.org/conference/aaai/aaai-21/) | 2020-09-01 | - | 2020-12-01 | 2021-02-02 | Virtual |
 
 
 ### IJCAI
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[IJCAI-26](https://2026.ijcai.org/)        |2026-01-12|2026-04-29|2026-08-15|
-|[IJCAI-25](https://2025.ijcai.org/)        |2025-01-16|2025-04-28|2025-08-16|
-|[IJCAI-24](https://ijcai24.org/) |2024-01-10|2024-04-16|2024-08-03|
-|[IJCAI-23](https://ijcai-23.org/) |2023-01-11|2023-04-19|2023-08-19|
-|[IJCAI-22](https://ijcai-22.org/) |2022-01-07|2022-04-20|2022-07-23|
-|[IJCAI-21](https://ijcai-21.org/) |2021-01-13|2021-04-30|2021-08-19|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[IJCAI-26](https://2026.ijcai.org/) | 2026-01-12 | 2026-04-07 | 2026-04-29 | 2026-08-15 | Bremen, Germany |
+|[IJCAI-25](https://2025.ijcai.org/) | 2025-01-16 | 2025-04-06 | 2025-04-28 | 2025-08-16 | Montreal, Canada |
+|[IJCAI-24](https://ijcai24.org/) | 2024-01-10 | 2024-03-18 | 2024-04-16 | 2024-08-03 | Jeju, Korea |
+|[IJCAI-23](https://ijcai-23.org/) | 2023-01-11 | 2023-03-20 | 2023-04-19 | 2023-08-19 | Macao, China |
+|[IJCAI-22](https://ijcai-22.org/) | 2022-01-07 | 2022-03-16 | 2022-04-20 | 2022-07-23 | Vienna, Austria |
+|[IJCAI-21](https://ijcai-21.org/) | 2021-01-13 | 2021-03-24 | 2021-04-30 | 2021-08-19 | Virtual |
 
 
 
 ### ECAI
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[ECAI-26](https://2026.ijcai.org/) |2026-01-12|2026-04-29|2026-08-15|
-|[ECAI-25](https://ecai2025.org/)   |2025-04-29|2025-07-10|2025-10-25|
-|[ECAI-24](https://ecai2024.eu/)    |2024-04-19|    -     |2024-10-19|
-|[ECAI-23](https://ecai2023.syskonf.pl/)|2023-05-02|2023-07-15|2023-09-30|
-|[ECAI-22](https://ijcai-22.org/) |2022-01-07|2022-04-20|2022-07-23|
-| ECAI-21                           |    -     |     -    |    -     |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[ECAI-26](https://2026.ijcai.org/) | 2026-01-12 | 2026-04-07 | 2026-04-29 | 2026-08-15 | Bremen, Germany |
+|[ECAI-25](https://ecai2025.org/) | 2025-04-29 | 2025-06-23 | 2025-07-10 | 2025-10-25 | Bologna, Italy |
+|[ECAI-24](https://ecai2024.eu/) | 2024-04-19 | 2024-06-17 | 2024-07-04 | 2024-10-19 | Santiago de Compostela, Spain |
+|[ECAI-23](https://ecai2023.syskonf.pl/) | 2023-05-02 | 2023-06-25 | 2023-07-15 | 2023-09-30 | Kraków, Poland |
+|[ECAI-22](https://ijcai-22.org/) | 2022-01-07 | 2022-03-16 | 2022-04-20 | 2022-07-23 | Vienna, Austria |
+|ECAI-21 | - | - | - | - | - |
 
 
 ### COLM
-|  Conf  | Submission    |   Notification  |   Conference  |
-| :---:  |    :----:     |     :---:       |     :---:     |
-|[COLM-26](https://colm.cc/Conferences/2026) |2026-03-26|2026-07-08|2026-10-06|
-|[COLM-25](https://colmweb.org/2025/)        |2025-03-22|2025-07-07|2025-10-07|
-|[COLM-24](https://colmweb.org/2024/)        |2024-03-22|2024-07-09|2024-10-07|
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[COLM-26](https://colm.cc/Conferences/2026) | 2026-03-26 | 2026-05-22 | 2026-07-08 | 2026-10-06 | San Francisco, US |
+|[COLM-25](https://colmweb.org/2025/) | 2025-03-22 | 2025-05-27 | 2025-07-07 | 2025-10-07 | Montreal, Canada |
+|[COLM-24](https://colmweb.org/2024/) | 2024-03-22 | 2024-05-24 | 2024-07-09 | 2024-10-07 | Philadelphia, US |
