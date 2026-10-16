@@ -15,8 +15,6 @@ Date format: **"yy-mm-dd"**
 ## NLP DDLs
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
-|[NAACL-25](https://2025.naacl.org/)            | $\color{gray}{\small\text{2024-10-15}}$ | $\color{gray}{\small\text{2024-12-16}}$ | $\color{gray}{\small\text{2025-01-22}}$ | $\color{gray}{\small\text{2025-04–29}}$ | Merico, North America |
-|[ACL-25](https://2025.aclweb.org/)             | $\color{gray}{\small\text{2025-02-15}}$ | $\color{gray}{\small\text{2025-04-20}}$ | $\color{gray}{\small\text{2025-05-15}}$ | $\color{gray}{\small\text{2025-07-27}}$ | Vienna, Europe |
 |[EMNLP-25](https://2025.emnlp.org/)            | $\color{gray}{\small\text{2025-05-19}}$ | $\color{gray}{\small\text{2025-08-01}}$ | $\color{gray}{\small\text{2025-08-20}}$ | $\color{gray}{\small\text{2025-11-05}}$ | Suzhou, China |
 |[EACL-26](https://2026.eacl.org/)              | $\color{gray}{\small\text{2025-10-06}}$ | $\color{gray}{\small\text{2025-12-14}}$ | $\color{gray}{\small\text{2026-01-03}}$ | $\color{gray}{\small\text{2026-03-24}}$ | Morocco, Africa |
 |[ACL-26](https://2026.aclweb.org/)             | $\color{gray}{\small\text{2026-01-05}}$ | $\color{gray}{\small\text{2026-03-14}}$ | $\color{gray}{\small\text{2026-04-04}}$ | $\color{gray}{\small\text{2026-07-02}}$ | San Diego, North America |
