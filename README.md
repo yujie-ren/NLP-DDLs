@@ -6,22 +6,22 @@ Date format: **"yy-mm-dd"**
 [ARR-2026](https://aclrollingreview.org/dates)
 |  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
 | :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
-|2026-03  |  $\color{gray}{\small\text{2026-03-16}}$  |  $\color{gray}{\small\text{2026-04-20}}$    |      $\color{gray}{\small\text{2026-04-28}}$    |  $\color{gray}{\small\text{2026-05-21}}$    |
-|2026-05  |  $\color{gray}{\small\text{2026-05-25}}$  |  $\color{gray}{\small\text{2026-07-02}}$    |      $\color{gray}{\small\text{2026-07-08}}$    |  $\color{gray}{\small\text{2026-07-30}}$    |
-|2026-08  |  $\color{gray}{\small\text{2026-08-03}}$  |  $\color{gray}{\small\text{2026-09-07}}$    |      $\color{gray}{\small\text{2026-09-14}}$    |  $\color{gray}{\small\text{2026-10-08}}$    |
-|2026-10  |  $\color{gray}{\small\text{2026-10-12}}$  |  2026-11-16    |      2026-11-24    |  2026-12-17    |
+|2026-03  |  <sub>~~2026-03-16~~</sub>  |  <sub>~~2026-04-20~~</sub>    |      <sub>~~2026-04-28~~</sub>    |  <sub>~~2026-05-21~~</sub>    |
+|2026-05  |  <sub>~~2026-05-25~~</sub>  |  <sub>~~2026-07-02~~</sub>    |      <sub>~~2026-07-08~~</sub>    |  <sub>~~2026-07-30~~</sub>    |
+|2026-08  |  <sub>~~2026-08-03~~</sub>  |  <sub>~~2026-09-07~~</sub>    |      <sub>~~2026-09-14~~</sub>    |  <sub>~~2026-10-08~~</sub>    |
+|2026-10  |  <sub>~~2026-10-12~~</sub>  |  2026-11-16    |      2026-11-24    |  2026-12-17    |
 
 
 ## NLP DDLs
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
-|[EMNLP-25](https://2025.emnlp.org/)            | $\color{gray}{\small\text{2025-05-19}}$ | $\color{gray}{\small\text{2025-08-01}}$ | $\color{gray}{\small\text{2025-08-20}}$ | $\color{gray}{\small\text{2025-11-05}}$ | Suzhou, China |
-|[EACL-26](https://2026.eacl.org/)              | $\color{gray}{\small\text{2025-10-06}}$ | $\color{gray}{\small\text{2025-12-14}}$ | $\color{gray}{\small\text{2026-01-03}}$ | $\color{gray}{\small\text{2026-03-24}}$ | Morocco, Africa |
-|[ACL-26](https://2026.aclweb.org/)             | $\color{gray}{\small\text{2026-01-05}}$ | $\color{gray}{\small\text{2026-03-14}}$ | $\color{gray}{\small\text{2026-04-04}}$ | $\color{gray}{\small\text{2026-07-02}}$ | San Diego, North America |
-|[EMNLP-26](https://2026.emnlp.org/)            | $\color{gray}{\small\text{2026-05-25}}$ | $\color{gray}{\small\text{2026-08-02}}$ | $\color{gray}{\small\text{2026-08-20}}$ | 2026-10-24 | Budapest, Europe |
-|[EACL-27](https://2027.eacl.org/)              | $\color{gray}{\small\text{2026-08-03}}$ | $\color{gray}{\small\text{2026-10-11}}$ | 2026-11-12 | 2027-03-09 | Athens, Europe |
-|[NAACL-27](https://2027.naacl.org/)            | $\color{gray}{\small\text{2026-10-12}}$ | 2026-12-13 | 2027-02-10 | 2027-06-01 | San Francisco, US |
-|[COLING-27](https://2027.coling-iccl.org/)     | $\color{gray}{\small\text{2026-10-12}}$ | 2026-12-13 | 2027-02-10 | 2027-05-09 | Macau, China |
+|[EMNLP-25](https://2025.emnlp.org/)            | <sub>~~2025-05-19~~</sub> | <sub>~~2025-08-01~~</sub> | <sub>~~2025-08-20~~</sub> | <sub>~~2025-11-05~~</sub> | Suzhou, China |
+|[EACL-26](https://2026.eacl.org/)              | <sub>~~2025-10-06~~</sub> | <sub>~~2025-12-14~~</sub> | <sub>~~2026-01-03~~</sub> | <sub>~~2026-03-24~~</sub> | Morocco, Africa |
+|[ACL-26](https://2026.aclweb.org/)             | <sub>~~2026-01-05~~</sub> | <sub>~~2026-03-14~~</sub> | <sub>~~2026-04-04~~</sub> | <sub>~~2026-07-02~~</sub> | San Diego, North America |
+|[EMNLP-26](https://2026.emnlp.org/)            | <sub>~~2026-05-25~~</sub> | <sub>~~2026-08-02~~</sub> | <sub>~~2026-08-20~~</sub> | 2026-10-24 | Budapest, Europe |
+|[EACL-27](https://2027.eacl.org/)              | <sub>~~2026-08-03~~</sub> | <sub>~~2026-10-11~~</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
+|[NAACL-27](https://2027.naacl.org/)            | <sub>~~2026-10-12~~</sub> | 2026-12-13 | 2027-02-10 | 2027-06-01 | San Francisco, US |
+|[COLING-27](https://2027.coling-iccl.org/)     | <sub>~~2026-10-12~~</sub> | 2026-12-13 | 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 |    | TBA | 2027-08-17 | Kyoto, Japan |
 |[EMNLP-27]()                                   | 2027-05 (e) |  |  |  |  |
 
@@ -29,13 +29,13 @@ Date format: **"yy-mm-dd"**
 ## ML DDLs
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[NeurIPS-24](https://neurips.cc/Conferences/2024)       | $\color{gray}{\small\text{2024-05-15}}$ | $\color{gray}{\small\text{2024-07-30}}$ | $\color{gray}{\small\text{2024-09-25}}$ | $\color{gray}{\small\text{2024-12-10}}$ | Vancouver, Canada |
-|[ICLR-25](https://iclr.cc/Conferences/2025)             | $\color{gray}{\small\text{2024-09-27}}$ | $\color{gray}{\small\text{2024-11-13}}$ | $\color{gray}{\small\text{2025-01-22}}$ | $\color{gray}{\small\text{2025-04-24}}$ | Singapore |
-|[ICML-25](https://icml.cc/Conferences/2025)             | $\color{gray}{\small\text{2025-01-23}}$ | $\color{gray}{\small\text{2025-03-25}}$ | $\color{gray}{\small\text{2025-05-01}}$ | $\color{gray}{\small\text{2025-07-13}}$ | Vancouver, Canada |
-|[NeurIPS-25](https://neurips.cc/Conferences/2025)       | $\color{gray}{\small\text{2025-05-11}}$ | $\color{gray}{\small\text{2025-07-24}}$ | $\color{gray}{\small\text{2025-09-18}}$ | $\color{gray}{\small\text{2025-11-30}}$ | San Diego, CA |
-|[ICLR-26](https://iclr.cc/Conferences/2026)             | $\color{gray}{\small\text{2025-09-19}}$ | $\color{gray}{\small\text{2025-11-11}}$ | $\color{gray}{\small\text{2026-01-25}}$ | $\color{gray}{\small\text{2026-04-23}}$ | Brazil |
-|[ICML-26](https://icml.cc/Conferences/2026)             | $\color{gray}{\small\text{2026-01-23}}$ | $\color{gray}{\small\text{2026-03-24}}$ | $\color{gray}{\small\text{2026-04-30}}$ | $\color{gray}{\small\text{2026-07-07}}$ | South Korea |
-|[NeurIPS-26](https://neurips.cc/Conferences/2026)       | $\color{gray}{\small\text{2026-05-04}}$ | $\color{gray}{\small\text{2026-07-22}}$ | $\color{gray}{\small\text{2026-09-24}}$ | 2026-12-08 | Sydney, Australia |
+|[NeurIPS-24](https://neurips.cc/Conferences/2024)       | <sub>~~2024-05-15~~</sub> | <sub>~~2024-07-30~~</sub> | <sub>~~2024-09-25~~</sub> | <sub>~~2024-12-10~~</sub> | Vancouver, Canada |
+|[ICLR-25](https://iclr.cc/Conferences/2025)             | <sub>~~2024-09-27~~</sub> | <sub>~~2024-11-13~~</sub> | <sub>~~2025-01-22~~</sub> | <sub>~~2025-04-24~~</sub> | Singapore |
+|[ICML-25](https://icml.cc/Conferences/2025)             | <sub>~~2025-01-23~~</sub> | <sub>~~2025-03-25~~</sub> | <sub>~~2025-05-01~~</sub> | <sub>~~2025-07-13~~</sub> | Vancouver, Canada |
+|[NeurIPS-25](https://neurips.cc/Conferences/2025)       | <sub>~~2025-05-11~~</sub> | <sub>~~2025-07-24~~</sub> | <sub>~~2025-09-18~~</sub> | <sub>~~2025-11-30~~</sub> | San Diego, CA |
+|[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>~~2025-09-19~~</sub> | <sub>~~2025-11-11~~</sub> | <sub>~~2026-01-25~~</sub> | <sub>~~2026-04-23~~</sub> | Brazil |
+|[ICML-26](https://icml.cc/Conferences/2026)             | <sub>~~2026-01-23~~</sub> | <sub>~~2026-03-24~~</sub> | <sub>~~2026-04-30~~</sub> | <sub>~~2026-07-07~~</sub> | South Korea |
+|[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>~~2026-05-04~~</sub> | <sub>~~2026-07-22~~</sub> | <sub>~~2026-09-24~~</sub> | 2026-12-08 | Sydney, Australia |
 |[ICLR-27]()                                             | 2026-09 (e) |  |  |  |  |
 |[ICML-27]()                                             | 2027-01 (e) |  |  |  |  |
 |[NeurIPS-27]()                                          | 2027-05 (e) |  |  |  |  |
