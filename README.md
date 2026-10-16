@@ -14,6 +14,7 @@
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
 |[ACL-26](https://2026.aclweb.org/)             | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | San Diego, North America |
 |[EMNLP-26](https://2026.emnlp.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-02</sub> | <sub>2026-08-20</sub> | 2026-10-24 | Budapest, Europe |
+|[AACL-26](https://2026.aaclnet.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-07</sub> | <sub>2026-09-07</sub> | 2026-11-06 | Hengqin, China |
 |[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
 |[NAACL-27](https://2027.naacl.org/)            | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-06-01 | San Francisco, US |
 |[COLING-27](https://2027.coling-iccl.org/)     | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-05-09 | Macau, China |
@@ -55,15 +56,15 @@
 
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|A |A*|A*|A*|
-| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |B |A |A |B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |AACL|NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |B |A*|A*|A*|A*|A*|A |A*|A*|A*|
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |- |A |A |A |A |B |B |A |A |B |
 
 
 
 ## Past Deadlines
-- **NLP**: [ACL](#acl) · [EMNLP](#emnlp) · [NAACL](#naacl) · [EACL](#eacl) · [COLING](#coling) · [COLM](#colm)
+- **NLP**: [ACL](#acl) · [EMNLP](#emnlp) · [NAACL](#naacl) · [EACL](#eacl) · [COLING](#coling) · [AACL](#aacl) · [COLM](#colm)
 - **ML**: [NeurIPS](#neurips) · [ICML](#icml) · [ICLR](#iclr)
 - **AI**: [AAAI](#aaai) · [IJCAI](#ijcai) · [ECAI](#ecai)
 - **CV**: [CVPR](#cvpr) · [ICCV](#iccv) · [ECCV](#eccv)
@@ -119,6 +120,17 @@
 |COLING-23 | - | - | - | - | - |
 |[COLING-22](https://coling2022.org/) | <sub>2022-05-17</sub> | - | <sub>2022-08-15</sub> | <sub>2022-10-12</sub> | Gyeongju, Korea |
 |COLING-21 | - | - | - | - | - |
+
+
+### AACL
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[AACL-25](https://2025.aaclnet.org/) | <sub>2025-07-28</sub> | <sub>2025-10-10</sub> | <sub>2025-10-25</sub> | <sub>2025-12-20</sub> | Mumbai, India |
+|AACL-24 | - | - | - | - | - |
+|[AACL-23](https://aclanthology.org/volumes/2023.ijcnlp-main/) | <sub>2023-05-23</sub> | <sub>2023-08-15</sub> | <sub>2023-09-04</sub> | <sub>2023-11-01</sub> | Bali, Indonesia |
+|[AACL-22](https://aclanthology.org/volumes/2022.aacl-main/) | <sub>2022-07-15</sub> | <sub>2022-08-21</sub> | <sub>2022-09-20</sub> | <sub>2022-11-20</sub> | Virtual |
+|AACL-21 | - | - | - | - | - |
+|[AACL-20](https://www.aacl2020.org/) | <sub>2020-06-26</sub> | - | <sub>2020-09-11</sub> | <sub>2020-12-04</sub> | Virtual |
 
 
 ### NeurIPS
