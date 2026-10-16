@@ -1,0 +1,32 @@
+name: Shrink past dates
+
+on:
+  schedule:
+    - cron: "5 12 * * *"  # 00:05 AoE (UTC-12), right after a day ends everywhere
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: [README.md]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Shrink past dates in README
+        run: python3 scripts/shrink_past_dates.py README.md
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No dates to update."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Shrink past dates"
+          git push
