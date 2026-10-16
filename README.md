@@ -31,7 +31,7 @@
 |[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
 |[IJCAI-27]()                                            | 2027-01 (e) | 2027-04 (e) | 2027-04 (e) | 2027-08 (e) | TBA |
 |[COLM-27]()                                             | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | 2027-10 (e) | TBA |
-|[ECAI-27]()                                             | 2027-04 (e) | 2027-06 (e) | 2027-07 (e) | 2027-10 (e) | Athens, Greece |
+|[ECAI-27](https://www.eetn.gr/ecai-2027/)              | 2027-04 (e) | 2027-06 (e) | 2027-07 (e) | 2027-10-02 | Athens, Greece |
 
 
 ## ML Confs
