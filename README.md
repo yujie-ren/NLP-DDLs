@@ -54,10 +54,10 @@
 
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|A |
-| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |A*|A*|A*|A*|A*|A |A*|A*|A*|
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |A |A |A |A |B |B |A |A |B |
 
 
 
