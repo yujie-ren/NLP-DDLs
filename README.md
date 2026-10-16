@@ -17,8 +17,8 @@
 |[ACL-26](https://2026.aclweb.org/)             | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | San Diego, North America |
 |[EMNLP-26](https://2026.emnlp.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-02</sub> | <sub>2026-08-20</sub> | 2026-10-24 | Budapest, Europe |
 |[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
-|[NAACL-27](https://2027.naacl.org/)            | <sub>2026-10-12</sub> | 2026-12-13 | 2027-02-10 | 2027-06-01 | San Francisco, US |
-|[COLING-27](https://2027.coling-iccl.org/)     | <sub>2026-10-12</sub> | 2026-12-13 | 2027-02-10 | 2027-05-09 | Macau, China |
+|[NAACL-27](https://2027.naacl.org/)            | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-06-01 | San Francisco, US |
+|[COLING-27](https://2027.coling-iccl.org/)     | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 |    | TBA | 2027-08-17 | Kyoto, Japan |
 |[EMNLP-27]()                                   | 2027-05 (e) |  |  |  |  |
 
@@ -33,9 +33,9 @@
 |[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>2025-09-19</sub> | <sub>2025-11-11</sub> | <sub>2026-01-25</sub> | <sub>2026-04-23</sub> | Brazil |
 |[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | South Korea |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>2026-05-04</sub> | <sub>2026-07-22</sub> | <sub>2026-09-24</sub> | 2026-12-08 | Sydney, Australia |
-|[ICLR-27]()                                             | 2026-09 (e) |  |  |  |  |
-|[ICML-27]()                                             | 2027-01 (e) |  |  |  |  |
-|[NeurIPS-27]()                                          | 2027-05 (e) |  |  |  |  |
+|[ICLR-27](https://iclr.cc/Conferences/2027)             | <sub>2026-09-18</sub> | 2026-11-05 | 2026-12-16 | 2027-04-26 | California, US |
+|[ICML-27]()                                             | 2027-01 (e) |  |  |  | South America (TBA) |
+|[NeurIPS-27]()                                          | 2027-05 (e) |  |  |  | Europe (TBA) |
 
 
 ## Conf Rankings
@@ -83,6 +83,7 @@
 ### EACL
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[EACL-26](https://2026.eacl.org/) |2025-10-06|2026-01-03|2026-03-24|
 | EACL-25 |      -        |       -         |       -       |
 |[EACL-24](https://2024.eacl.org/) |2023-10-15|2024-01-17|2024-03-17|
 |[EACL-23](https://2023.eacl.org/) |2022-10-13|2023-01-20|2023-05-02|
@@ -112,6 +113,7 @@
 ### ICML
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[ICML-26](https://icml.cc/Conferences/2026)|2026-01-23|2026-04-30|2026-07-07|
 |[ICML-25](https://icml.cc/Conferences/2025)|2025-01-23|2025-05-01|2025-07-13|
 |[ICML-24](https://icml.cc/Conferences/2024) |2024-02-01|2024-05-01|2024-07-21|
 |[ICML-23](https://icml.cc/Conferences/2023) |2023-01-26|2023-04-24|2023-07-23|
@@ -122,6 +124,7 @@
 ### ICLR
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[ICLR-26](https://iclr.cc/Conferences/2026)|2025-09-19|2026-01-25|2026-04-23|
 |[ICLR-25](https://iclr.cc/Conferences/2025)|2024-09-27|2025-01-22|2025-04-24|
 |[ICLR-24](https://iclr.cc/Conferences/2024) |2023-09-23|2024-01-15|2024-05-07|
 |[ICLR-23](https://iclr.cc/Conferences/2023) |2022-09-21|2023-01-21|2023-05-01|
@@ -132,6 +135,7 @@
 ### AAAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)|2025-07-25|2025-11-08|2026-01-20|
 |[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)|2024-08-07|2024-12-09|2025-02-25|
 |[AAAI-24](https://aaai.org/conference/aaai/aaai-24/) |2023-08-08|2023-12-09|2024-02-20|
 |[AAAI-23](https://aaai-23.aaai.org/) |2022-08-08|2022-11-18|2023-02-07|
@@ -142,6 +146,7 @@
 ### IJCAI
 |  Conf  | Submission    |   Notification  |   Conference  |
 | :---:  |    :----:     |     :---:       |     :---:     |
+|[IJCAI-26](https://2026.ijcai.org/)        |2026-01-12|2026-04-29|2026-08-15|
 |[IJCAI-25](https://2025.ijcai.org/)        |2025-01-16|2025-04-28|2025-08-16|
 |[IJCAI-24](https://ijcai24.org/) |2024-01-10|2024-04-16|2024-08-03|
 |[IJCAI-23](https://ijcai-23.org/) |2023-01-11|2023-04-19|2023-08-19|
