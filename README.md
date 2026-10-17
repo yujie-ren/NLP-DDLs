@@ -132,7 +132,7 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 |  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
 |[COLING-25](https://coling2025.org/) | <sub>2024-09-16</sub> | - | <sub>2024-11-29</sub> | <sub>2025-01-19</sub> | <sub>Abu Dhabi, UAE</sub> | <sub>[Papers](https://aclanthology.org/events/coling-2025/)</sub> |
-|[COLING-24](https://lrec-coling-2024.org/) | <sub>2023-10-20</sub> | - | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | <sub>Turin, Italy</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-coling-2024/)</sub> |
+|[COLING-24](https://lrec-coling-2024.org/) | <sub>2023-10-20</sub> | - | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | <sub>Turin, Italy</sub> | <sub>[Papers](https://aclanthology.org/events/coling-2024/)</sub> |
 |COLING-23 | - | - | - | - | - | - |
 |[COLING-22](https://coling2022.org/) | <sub>2022-05-17</sub> | - | <sub>2022-08-15</sub> | <sub>2022-10-12</sub> | <sub>Gyeongju, Korea</sub> | <sub>[Papers](https://aclanthology.org/events/coling-2022/)</sub> |
 |COLING-21 | - | - | - | - | - | - |
