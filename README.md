@@ -228,7 +228,7 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 |[LREC-26](https://lrec2026.info/) | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | <sub>Mallorca, Spain</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2026/)</sub> |
 |<sub>[LREC-COLING-24](https://lrec-coling-2024.org/)</sub> | <sub>2023-10-20</sub> | <sub>2024-01-22</sub> | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | <sub>Turin, Italy</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2024/)</sub> |
 |[LREC-22](https://lrec2022.lrec-conf.org/) | <sub>2022-01-17</sub> | - | <sub>2022-04-05</sub> | <sub>2022-06-20</sub> | <sub>Marseille, France</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2022/)</sub> |
-|[LREC-20](https://lrec2020.lrec-conf.org/) | <sub>2019-12-02</sub> | - | <sub>2020-02-13</sub> | Cancelled | <sub>Marseille, France</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2020/)</sub> |
+|[LREC-20](https://lrec2020.lrec-conf.org/) | <sub>2019-12-02</sub> | - | <sub>2020-02-13</sub> | <sub>Cancelled</sub> | <sub>Marseille, France</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2020/)</sub> |
 
 ### CVPR
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
