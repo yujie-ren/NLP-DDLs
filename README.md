@@ -217,9 +217,9 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 ### COLM
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
-|[COLM-26](https://colm.cc/Conferences/2026) | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | <sub>San Francisco, US</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2026)</sub> |
-|[COLM-25](https://colmweb.org/2025/) | <sub>2025-03-22</sub> | <sub>2025-05-27</sub> | <sub>2025-07-07</sub> | <sub>2025-10-07</sub> | <sub>Montreal, Canada</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2025)</sub> |
-|[COLM-24](https://colmweb.org/2024/) | <sub>2024-03-22</sub> | <sub>2024-05-24</sub> | <sub>2024-07-09</sub> | <sub>2024-10-07</sub> | <sub>Philadelphia, US</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2024)</sub> |
+|[COLM-26](https://colm.cc/Conferences/2026) | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | <sub>San Francisco, US</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2026/Conference#tab-accepted-colm-2026-papers)</sub> |
+|[COLM-25](https://colmweb.org/2025/) | <sub>2025-03-22</sub> | <sub>2025-05-27</sub> | <sub>2025-07-07</sub> | <sub>2025-10-07</sub> | <sub>Montreal, Canada</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2025/Conference#tab-accepted-submissions)</sub> |
+|[COLM-24](https://colmweb.org/2024/) | <sub>2024-03-22</sub> | <sub>2024-05-24</sub> | <sub>2024-07-09</sub> | <sub>2024-10-07</sub> | <sub>Philadelphia, US</sub> | <sub>[Papers](https://openreview.net/group?id=colmweb.org/COLM/2024/Conference#tab-accept)</sub> |
 
 
 ### LREC
