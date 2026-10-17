@@ -212,7 +212,7 @@
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
 |[LREC-26](https://lrec2026.info/) | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | Palma de Mallorca, Spain |
-|[LREC-COLING-24](https://lrec-coling-2024.org/) | <sub>2023-10-20</sub> | <sub>2024-01-22</sub> | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | Turin, Italy |
+|<sub>[LREC-COLING-24](https://lrec-coling-2024.org/)</sub> | <sub>2023-10-20</sub> | <sub>2024-01-22</sub> | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | Turin, Italy |
 |[LREC-22](https://lrec2022.lrec-conf.org/) | <sub>2022-01-17</sub> | - | <sub>2022-04-05</sub> | <sub>2022-06-20</sub> | Marseille, France |
 |[LREC-20](https://lrec2020.lrec-conf.org/) | <sub>2019-12-02</sub> | - | <sub>2020-02-13</sub> | Cancelled | Marseille, France |
 
