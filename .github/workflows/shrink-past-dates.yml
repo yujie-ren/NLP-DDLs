@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Shrink past dates in README
+      - name: Shrink past dates (and their locations) in README
         run: python3 scripts/shrink_past_dates.py README.md
 
       - name: Commit changes

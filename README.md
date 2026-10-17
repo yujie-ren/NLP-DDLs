@@ -13,7 +13,7 @@
 ## Confs in ARR
 |  Conf  |Submission    |Commitment|   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |   :---:   |   :---:   |
-|[ACL-26](https://2026.aclweb.org/)             | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | San Diego, North America |
+|[ACL-26](https://2026.aclweb.org/)             | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | <sub>San Diego, North America</sub> |
 |[EMNLP-26](https://2026.emnlp.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-02</sub> | <sub>2026-08-20</sub> | 2026-10-24 | Budapest, Europe |
 |[AACL-26](https://2026.aaclnet.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-07</sub> | <sub>2026-09-07</sub> | 2026-11-06 | Hengqin, China |
 |[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
@@ -26,10 +26,10 @@
 ## Confs not in ARR
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)    | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | Singapore |
-|[LREC-26](https://lrec2026.info/)                      | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | Mallorca, Spain |
-|[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
-|[COLM-26](https://colm.cc/Conferences/2026)            | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | San Francisco, US |
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)    | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | <sub>Singapore</sub> |
+|[LREC-26](https://lrec2026.info/)                      | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | <sub>Mallorca, Spain</sub> |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> |
+|[COLM-26](https://colm.cc/Conferences/2026)            | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | <sub>San Francisco, US</sub> |
 |[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
 |[IJCAI-27](https://2027.ijcai.org/)                     | 2027-01-04 | 2027-03 (e) | 2027-04-21 | 2027-08-07 | Kyoto, Japan |
 |[COLM-27]()                                             | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | 2027-10 (e) | TBA |
@@ -40,8 +40,8 @@
 ## ML Confs
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>2025-09-19</sub> | <sub>2025-11-11</sub> | <sub>2026-01-25</sub> | <sub>2026-04-23</sub> | Brazil |
-|[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | South Korea |
+|[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>2025-09-19</sub> | <sub>2025-11-11</sub> | <sub>2026-01-25</sub> | <sub>2026-04-23</sub> | <sub>Brazil</sub> |
+|[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | <sub>South Korea</sub> |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>2026-05-04</sub> | <sub>2026-07-22</sub> | <sub>2026-09-24</sub> | 2026-12-08 | Sydney, Australia |
 |[ICLR-27](https://iclr.cc/Conferences/2027)             | <sub>2026-09-18</sub> | 2026-11-05 | 2026-12-16 | 2027-04-26 | California, US |
 |[ICML-27]()                                             | 2027-01 (e) | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | South America (TBA) |
@@ -50,9 +50,9 @@
 ## CV Confs
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ICCV-25](https://iccv.thecvf.com/Conferences/2025)     | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | Honolulu, US |
-|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | Denver, US |
-|[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | Malmö, Sweden |
+|[ICCV-25](https://iccv.thecvf.com/Conferences/2025)     | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | <sub>Honolulu, US</sub> |
+|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | <sub>Denver, US</sub> |
+|[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> |
 |[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | 2026-11-10 | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
 |[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) | 2027-05 (e) | 2027-06 (e) | 2027-10-03 | Hong Kong, China |
 |[ECCV-28]()                                             | 2028-02 (e) | 2028-05 (e) | 2028-06 (e) | 2028-09 (e) | TBA |
