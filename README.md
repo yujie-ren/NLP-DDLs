@@ -231,27 +231,27 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 |[LREC-20](https://lrec2020.lrec-conf.org/) | <sub>2019-12-02</sub> | - | <sub>2020-02-13</sub> | <sub>Cancelled</sub> | <sub>Marseille, France</sub> | <sub>[Papers](https://aclanthology.org/events/lrec-2020/)</sub> |
 
 ### CVPR
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026) | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | <sub>Denver, US</sub> |
-|[CVPR-25](https://cvpr.thecvf.com/Conferences/2025) | <sub>2024-11-08</sub> | <sub>2025-01-23</sub> | <sub>2025-02-26</sub> | <sub>2025-06-11</sub> | <sub>Nashville, US</sub> |
-|[CVPR-24](https://cvpr.thecvf.com/Conferences/2024) | <sub>2023-11-04</sub> | <sub>2024-01-24</sub> | <sub>2024-02-27</sub> | <sub>2024-06-17</sub> | <sub>Seattle, US</sub> |
-|[CVPR-23](https://cvpr.thecvf.com/Conferences/2023) | <sub>2022-11-04</sub> | <sub>2023-01-24</sub> | <sub>2023-02-27</sub> | <sub>2023-06-18</sub> | <sub>Vancouver, Canada</sub> |
-|[CVPR-22](https://cvpr2022.thecvf.com/) | <sub>2021-11-09</sub> | <sub>2022-01-24</sub> | <sub>2022-03-02</sub> | <sub>2022-06-19</sub> | <sub>New Orleans, US</sub> |
-|[CVPR-21](https://cvpr2021.thecvf.com/) | <sub>2020-11-09</sub> | <sub>2021-01-18</sub> | <sub>2021-02-28</sub> | <sub>2021-06-19</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[CVPR-26](https://cvpr.thecvf.com/Conferences/2026) | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | <sub>Denver, US</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2026?day=all)</sub> |
+|[CVPR-25](https://cvpr.thecvf.com/Conferences/2025) | <sub>2024-11-08</sub> | <sub>2025-01-23</sub> | <sub>2025-02-26</sub> | <sub>2025-06-11</sub> | <sub>Nashville, US</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2025?day=all)</sub> |
+|[CVPR-24](https://cvpr.thecvf.com/Conferences/2024) | <sub>2023-11-04</sub> | <sub>2024-01-24</sub> | <sub>2024-02-27</sub> | <sub>2024-06-17</sub> | <sub>Seattle, US</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2024?day=all)</sub> |
+|[CVPR-23](https://cvpr.thecvf.com/Conferences/2023) | <sub>2022-11-04</sub> | <sub>2023-01-24</sub> | <sub>2023-02-27</sub> | <sub>2023-06-18</sub> | <sub>Vancouver, Canada</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2023?day=all)</sub> |
+|[CVPR-22](https://cvpr2022.thecvf.com/) | <sub>2021-11-09</sub> | <sub>2022-01-24</sub> | <sub>2022-03-02</sub> | <sub>2022-06-19</sub> | <sub>New Orleans, US</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2022?day=all)</sub> |
+|[CVPR-21](https://cvpr2021.thecvf.com/) | <sub>2020-11-09</sub> | <sub>2021-01-18</sub> | <sub>2021-02-28</sub> | <sub>2021-06-19</sub> | <sub>Virtual</sub> | <sub>[Papers](https://openaccess.thecvf.com/CVPR2021?day=all)</sub> |
 
 
 ### ICCV
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ICCV-25](https://iccv.thecvf.com/Conferences/2025) | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | <sub>Honolulu, US</sub> |
-|[ICCV-23](https://iccv2023.thecvf.com/) | <sub>2023-03-08</sub> | <sub>2023-05-23</sub> | <sub>2023-07-13</sub> | <sub>2023-10-02</sub> | <sub>Paris, France</sub> |
-|[ICCV-21](https://iccv2021.thecvf.com/) | <sub>2021-03-10</sub> | <sub>2021-06-10</sub> | <sub>2021-07-22</sub> | <sub>2021-10-11</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[ICCV-25](https://iccv.thecvf.com/Conferences/2025) | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | <sub>Honolulu, US</sub> | <sub>[Papers](https://openaccess.thecvf.com/ICCV2025?day=all)</sub> |
+|[ICCV-23](https://iccv2023.thecvf.com/) | <sub>2023-03-08</sub> | <sub>2023-05-23</sub> | <sub>2023-07-13</sub> | <sub>2023-10-02</sub> | <sub>Paris, France</sub> | <sub>[Papers](https://openaccess.thecvf.com/ICCV2023?day=all)</sub> |
+|[ICCV-21](https://iccv2021.thecvf.com/) | <sub>2021-03-10</sub> | <sub>2021-06-10</sub> | <sub>2021-07-22</sub> | <sub>2021-10-11</sub> | <sub>Virtual</sub> | <sub>[Papers](https://openaccess.thecvf.com/ICCV2021?day=all)</sub> |
 
 
 ### ECCV
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ECCV-26](https://eccv.ecva.net/Conferences/2026) | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> |
-|[ECCV-24](https://eccv.ecva.net/Conferences/2024) | <sub>2024-02-29</sub> | <sub>2024-05-09</sub> | <sub>2024-07-01</sub> | <sub>2024-09-29</sub> | <sub>Milan, Italy</sub> |
-|[ECCV-22](https://eccv2022.ecva.net/) | <sub>2022-03-07</sub> | <sub>2022-05-23</sub> | <sub>2022-07-03</sub> | <sub>2022-10-23</sub> | <sub>Tel Aviv, Israel</sub> |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[ECCV-26](https://eccv.ecva.net/Conferences/2026) | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> | <sub>[Papers](https://eccv.ecva.net/virtual/2026/papers.html)</sub> |
+|[ECCV-24](https://eccv.ecva.net/Conferences/2024) | <sub>2024-02-29</sub> | <sub>2024-05-09</sub> | <sub>2024-07-01</sub> | <sub>2024-09-29</sub> | <sub>Milan, Italy</sub> | <sub>[Papers](https://eccv.ecva.net/virtual/2024/papers.html)</sub> |
+|[ECCV-22](https://eccv2022.ecva.net/) | <sub>2022-03-07</sub> | <sub>2022-05-23</sub> | <sub>2022-07-03</sub> | <sub>2022-10-23</sub> | <sub>Tel Aviv, Israel</sub> | <sub>[Papers](https://www.ecva.net/papers.php)</sub> |
