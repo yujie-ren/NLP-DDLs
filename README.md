@@ -26,12 +26,14 @@
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
 | :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
 |[AAAI-26](https://aaai.org/conference/aaai/aaai-26/)    | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | Singapore |
+|[LREC-26](https://lrec2026.info/)                      | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | Palma de Mallorca, Spain |
 |[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | Bremen, Germany |
 |[COLM-26](https://colm.cc/Conferences/2026)            | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | San Francisco, US |
 |[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
 |[IJCAI-27](https://2027.ijcai.org/)                     | 2027-01-04 | 2027-03 (e) | 2027-04-21 | 2027-08-07 | Kyoto, Japan |
 |[COLM-27]()                                             | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | 2027-10 (e) | TBA |
 |[ECAI-27](https://ecai2027.org/)                        | 2027-04-14 | 2027-06-15 | 2027-07-15 | 2027-10-02 | Athens, Greece |
+|[LREC-28]()                                             | 2027-10 (e) | - | 2028-02 (e) | 2028-05 (e) | TBA |
 
 
 ## ML Confs
@@ -56,15 +58,15 @@
 
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |AACL|NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |B |A*|A*|A*|A*|A*|A |A*|A*|A*|
-| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |- |A |A |A |A |B |B |A |A |B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |AACL|LREC|NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |B |B |A*|A*|A*|A*|A*|A |A*|A*|A*|
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |- |- |A |A |A |A |B |B |A |A |B |
 
 
 
 ## Past Deadlines
-- **NLP**: [ACL](#acl) · [EMNLP](#emnlp) · [NAACL](#naacl) · [EACL](#eacl) · [COLING](#coling) · [AACL](#aacl) · [COLM](#colm)
+- **NLP**: [ACL](#acl) · [EMNLP](#emnlp) · [NAACL](#naacl) · [EACL](#eacl) · [COLING](#coling) · [AACL](#aacl) · [COLM](#colm) · [LREC](#lrec)
 - **ML**: [NeurIPS](#neurips) · [ICML](#icml) · [ICLR](#iclr)
 - **AI**: [AAAI](#aaai) · [IJCAI](#ijcai) · [ECAI](#ecai)
 - **CV**: [CVPR](#cvpr) · [ICCV](#iccv) · [ECCV](#eccv)
@@ -204,6 +206,15 @@
 |[COLM-26](https://colm.cc/Conferences/2026) | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | San Francisco, US |
 |[COLM-25](https://colmweb.org/2025/) | <sub>2025-03-22</sub> | <sub>2025-05-27</sub> | <sub>2025-07-07</sub> | <sub>2025-10-07</sub> | Montreal, Canada |
 |[COLM-24](https://colmweb.org/2024/) | <sub>2024-03-22</sub> | <sub>2024-05-24</sub> | <sub>2024-07-09</sub> | <sub>2024-10-07</sub> | Philadelphia, US |
+
+
+### LREC
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
+|[LREC-26](https://lrec2026.info/) | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | Palma de Mallorca, Spain |
+|[LREC-COLING-24](https://lrec-coling-2024.org/) | <sub>2023-10-20</sub> | <sub>2024-01-22</sub> | <sub>2024-02-19</sub> | <sub>2024-05-20</sub> | Turin, Italy |
+|[LREC-22](https://lrec2022.lrec-conf.org/) | <sub>2022-01-17</sub> | - | <sub>2022-04-05</sub> | <sub>2022-06-20</sub> | Marseille, France |
+|[LREC-20](https://lrec2020.lrec-conf.org/) | <sub>2019-12-02</sub> | - | <sub>2020-02-13</sub> | Cancelled (COVID-19) | Marseille, France |
 
 ### CVPR
 |  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
