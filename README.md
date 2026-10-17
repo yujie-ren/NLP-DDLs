@@ -87,14 +87,14 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### ACL
-|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[ACL-26](https://2026.aclweb.org/) | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | <sub>San Diego, US</sub> |
-|[ACL-25](https://2025.aclweb.org/) | <sub>2025-02-15</sub> | <sub>2025-04-20</sub> | <sub>2025-05-15</sub> | <sub>2025-07-27</sub> | <sub>Vienna, Austria</sub> |
-|[ACL-24](https://2024.aclweb.org/) | <sub>2024-02-15</sub> | <sub>2024-04-20</sub> | <sub>2024-05-15</sub> | <sub>2024-08-11</sub> | <sub>Bangkok, Thailand</sub> |
-|[ACL-23](https://2023.aclweb.org/) | <sub>2022-12-15</sub> | <sub>2023-03-17</sub> | <sub>2023-05-01</sub> | <sub>2023-07-09</sub> | <sub>Toronto, Canada</sub> |
-|[ACL-22](https://2022.aclweb.org/) | <sub>2021-11-15</sub> | <sub>2022-01-15</sub> | <sub>2022-02-23</sub> | <sub>2022-05-22</sub> | <sub>Dublin, Ireland</sub> |
-|[ACL-21](https://2021.aclweb.org/) | <sub>2021-01-25</sub> | - | <sub>2021-05-05</sub> | <sub>2021-08-01</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[ACL-26](https://2026.aclweb.org/) | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | <sub>San Diego, US</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2026/)</sub> |
+|[ACL-25](https://2025.aclweb.org/) | <sub>2025-02-15</sub> | <sub>2025-04-20</sub> | <sub>2025-05-15</sub> | <sub>2025-07-27</sub> | <sub>Vienna, Austria</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2025/)</sub> |
+|[ACL-24](https://2024.aclweb.org/) | <sub>2024-02-15</sub> | <sub>2024-04-20</sub> | <sub>2024-05-15</sub> | <sub>2024-08-11</sub> | <sub>Bangkok, Thailand</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2024/)</sub> |
+|[ACL-23](https://2023.aclweb.org/) | <sub>2022-12-15</sub> | <sub>2023-03-17</sub> | <sub>2023-05-01</sub> | <sub>2023-07-09</sub> | <sub>Toronto, Canada</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2023/)</sub> |
+|[ACL-22](https://2022.aclweb.org/) | <sub>2021-11-15</sub> | <sub>2022-01-15</sub> | <sub>2022-02-23</sub> | <sub>2022-05-22</sub> | <sub>Dublin, Ireland</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2022/)</sub> |
+|[ACL-21](https://2021.aclweb.org/) | <sub>2021-01-25</sub> | - | <sub>2021-05-05</sub> | <sub>2021-08-01</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aclanthology.org/events/acl-2021/)</sub> |
 
 
 ### EMNLP
