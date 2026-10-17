@@ -98,13 +98,13 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### EMNLP
-|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[EMNLP-25](https://2025.emnlp.org/) | <sub>2025-05-19</sub> | <sub>2025-08-01</sub> | <sub>2025-08-20</sub> | <sub>2025-11-05</sub> | <sub>Suzhou, China</sub> |
-|[EMNLP-24](https://2024.emnlp.org/) | <sub>2024-06-15</sub> | <sub>2024-08-20</sub> | <sub>2024-09-20</sub> | <sub>2024-11-12</sub> | <sub>Miami, US</sub> |
-|[EMNLP-23](https://2023.emnlp.org/) | <sub>2023-06-16</sub> | <sub>2023-08-22</sub> | <sub>2023-10-06</sub> | <sub>2023-12-06</sub> | <sub>Singapore</sub> |
-|[EMNLP-22](https://2022.emnlp.org/) | <sub>2022-06-17</sub> | <sub>2022-07-24</sub> | <sub>2022-10-06</sub> | <sub>2022-12-07</sub> | <sub>Abu Dhabi, UAE</sub> |
-|[EMNLP-21](https://2021.emnlp.org/) | <sub>2021-05-10</sub> | - | <sub>2021-08-25</sub> | <sub>2021-11-07</sub> | <sub>Dominican</sub> |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[EMNLP-25](https://2025.emnlp.org/) | <sub>2025-05-19</sub> | <sub>2025-08-01</sub> | <sub>2025-08-20</sub> | <sub>2025-11-05</sub> | <sub>Suzhou, China</sub> | <sub>[Papers](https://aclanthology.org/events/emnlp-2025/)</sub> |
+|[EMNLP-24](https://2024.emnlp.org/) | <sub>2024-06-15</sub> | <sub>2024-08-20</sub> | <sub>2024-09-20</sub> | <sub>2024-11-12</sub> | <sub>Miami, US</sub> | <sub>[Papers](https://aclanthology.org/events/emnlp-2024/)</sub> |
+|[EMNLP-23](https://2023.emnlp.org/) | <sub>2023-06-16</sub> | <sub>2023-08-22</sub> | <sub>2023-10-06</sub> | <sub>2023-12-06</sub> | <sub>Singapore</sub> | <sub>[Papers](https://aclanthology.org/events/emnlp-2023/)</sub> |
+|[EMNLP-22](https://2022.emnlp.org/) | <sub>2022-06-17</sub> | <sub>2022-07-24</sub> | <sub>2022-10-06</sub> | <sub>2022-12-07</sub> | <sub>Abu Dhabi, UAE</sub> | <sub>[Papers](https://aclanthology.org/events/emnlp-2022/)</sub> |
+|[EMNLP-21](https://2021.emnlp.org/) | <sub>2021-05-10</sub> | - | <sub>2021-08-25</sub> | <sub>2021-11-07</sub> | <sub>Dominican</sub> | <sub>[Papers](https://aclanthology.org/events/emnlp-2021/)</sub> |
 
 
 ### NAACL
