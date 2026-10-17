@@ -85,32 +85,6 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 |2025-07  |  <sub>2025-07-28</sub>  |  <sub>2025-09-02</sub>    |      <sub>2025-09-09</sub>    |  <sub>2025-10-02</sub>    |
 |2025-10  |  <sub>2025-10-06</sub>  |  <sub>2025-11-10</sub>    |      <sub>2025-11-18</sub>    |  <sub>2025-12-11</sub>    |
 
-ARR-2024
-|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
-| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
-|2024-02  |  <sub>2024-02-15</sub>  |  -    |      <sub>2024-03-26</sub>    |  <sub>2024-04-15</sub>    |
-|2024-04  |  <sub>2024-04-15</sub>  |  -    |      <sub>2024-05-23</sub>    |  <sub>2024-06-15</sub>    |
-|2024-06  |  <sub>2024-06-15</sub>  |  -    |      <sub>2024-07-25</sub>    |  <sub>2024-08-15</sub>    |
-|2024-08  |  <sub>2024-08-15</sub>  |  -    |      <sub>2024-09-25</sub>    |  <sub>2024-10-15</sub>    |
-|2024-10  |  <sub>2024-10-15</sub>  |  -    |      <sub>2024-11-22</sub>    |  <sub>2024-12-15</sub>    |
-|2024-12  |  <sub>2024-12-15</sub>  |  -    |      <sub>2025-01-24</sub>    |  <sub>2025-02-15</sub>    |
-
-ARR-2023
-|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
-| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
-|2023-02  |  <sub>2023-02-15</sub>  |  -    |      <sub>2023-03-27</sub>    |  <sub>2023-04-15</sub>    |
-|2023-04  |  <sub>2023-04-15</sub>  |  -    |      <sub>2023-05-27</sub>    |  <sub>2023-06-15</sub>    |
-|2023-06  |  <sub>2023-06-15</sub>  |  -    |      <sub>2023-07-28</sub>    |  <sub>2023-08-15</sub>    |
-|2023-08  |  <sub>2023-08-15</sub>  |  -    |      <sub>2023-09-27</sub>    |  <sub>2023-10-15</sub>    |
-|2023-10  |  <sub>2023-10-15</sub>  |  -    |      <sub>2023-11-23</sub>    |  <sub>2023-12-15</sub>    |
-|2023-12  |  <sub>2023-12-15</sub>  |  -    |      <sub>2024-01-22</sub>    |  <sub>2024-02-15</sub>    |
-
-[ARR-2022](https://aclrollingreview.org/key-changes-in-the-october-cycle/)
-|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
-| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
-|2022-10  |  <sub>2022-10-15</sub>  |  -    |      -    |  <sub>2022-12-15</sub>    |
-|2022-12  |  <sub>2022-12-15</sub>  |  <sub>2023-01-23</sub>    |      <sub>2023-01-30</sub>    |  <sub>2023-02-08</sub>    |
-
 
 ### ACL
 |  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
