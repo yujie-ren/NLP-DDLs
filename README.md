@@ -139,14 +139,14 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### AACL
-|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[AACL-25](https://2025.aaclnet.org/) | <sub>2025-07-28</sub> | <sub>2025-10-10</sub> | <sub>2025-10-25</sub> | <sub>2025-12-20</sub> | <sub>Mumbai, India</sub> |
-|AACL-24 | - | - | - | - | - |
-|[AACL-23](https://aclanthology.org/volumes/2023.ijcnlp-main/) | <sub>2023-05-23</sub> | <sub>2023-08-15</sub> | <sub>2023-09-04</sub> | <sub>2023-11-01</sub> | <sub>Bali, Indonesia</sub> |
-|[AACL-22](https://aclanthology.org/volumes/2022.aacl-main/) | <sub>2022-07-15</sub> | <sub>2022-08-21</sub> | <sub>2022-09-20</sub> | <sub>2022-11-20</sub> | <sub>Virtual</sub> |
-|AACL-21 | - | - | - | - | - |
-|[AACL-20](https://www.aacl2020.org/) | <sub>2020-06-26</sub> | - | <sub>2020-09-11</sub> | <sub>2020-12-04</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[AACL-25](https://2025.aaclnet.org/) | <sub>2025-07-28</sub> | <sub>2025-10-10</sub> | <sub>2025-10-25</sub> | <sub>2025-12-20</sub> | <sub>Mumbai, India</sub> | <sub>[Papers](https://aclanthology.org/events/aacl-2025/)</sub> |
+|AACL-24 | - | - | - | - | - | - |
+|[AACL-23](https://aclanthology.org/volumes/2023.ijcnlp-main/) | <sub>2023-05-23</sub> | <sub>2023-08-15</sub> | <sub>2023-09-04</sub> | <sub>2023-11-01</sub> | <sub>Bali, Indonesia</sub> | <sub>[Papers](https://aclanthology.org/events/aacl-2023/)</sub> |
+|[AACL-22](https://aclanthology.org/volumes/2022.aacl-main/) | <sub>2022-07-15</sub> | <sub>2022-08-21</sub> | <sub>2022-09-20</sub> | <sub>2022-11-20</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aclanthology.org/events/aacl-2022/)</sub> |
+|AACL-21 | - | - | - | - | - | - |
+|[AACL-20](https://www.aacl2020.org/) | <sub>2020-06-26</sub> | - | <sub>2020-09-11</sub> | <sub>2020-12-04</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aclanthology.org/events/aacl-2020/)</sub> |
 
 
 ### NeurIPS
