@@ -108,13 +108,13 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### NAACL
-|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[NAACL-25](https://2025.naacl.org/) | <sub>2024-10-15</sub> | <sub>2024-12-16</sub> | <sub>2025-01-22</sub> | <sub>2025-04-29</sub> | <sub>Albuquerque, US</sub> |
-|[NAACL-24](https://2024.naacl.org/) | <sub>2023-12-15</sub> | <sub>2024-02-20</sub> | <sub>2024-03-15</sub> | <sub>2024-06-16</sub> | <sub>Mexico City, Mexico</sub> |
-|NAACL-23 | - | - | - | - | - |
-|[NAACL-22](https://2022.naacl.org/) | <sub>2022-01-15</sub> | <sub>2022-03-06</sub> | <sub>2022-04-07</sub> | <sub>2022-07-10</sub> | <sub>Seattle, US</sub> |
-|[NAACL-21](https://2021.naacl.org/) | <sub>2020-11-23</sub> | - | <sub>2021-03-10</sub> | <sub>2021-06-06</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[NAACL-25](https://2025.naacl.org/) | <sub>2024-10-15</sub> | <sub>2024-12-16</sub> | <sub>2025-01-22</sub> | <sub>2025-04-29</sub> | <sub>Albuquerque, US</sub> | <sub>[Papers](https://aclanthology.org/events/naacl-2025/)</sub> |
+|[NAACL-24](https://2024.naacl.org/) | <sub>2023-12-15</sub> | <sub>2024-02-20</sub> | <sub>2024-03-15</sub> | <sub>2024-06-16</sub> | <sub>Mexico City, Mexico</sub> | <sub>[Papers](https://aclanthology.org/events/naacl-2024/)</sub> |
+|NAACL-23 | - | - | - | - | - | - |
+|[NAACL-22](https://2022.naacl.org/) | <sub>2022-01-15</sub> | <sub>2022-03-06</sub> | <sub>2022-04-07</sub> | <sub>2022-07-10</sub> | <sub>Seattle, US</sub> | <sub>[Papers](https://aclanthology.org/events/naacl-2022/)</sub> |
+|[NAACL-21](https://2021.naacl.org/) | <sub>2020-11-23</sub> | - | <sub>2021-03-10</sub> | <sub>2021-06-06</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aclanthology.org/events/naacl-2021/)</sub> |
 
 
 ### EACL
