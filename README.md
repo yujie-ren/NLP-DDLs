@@ -3,6 +3,7 @@
 [ARR-2026](https://aclrollingreview.org/dates)
 |  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
 | :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2026-01  |  <sub>2026-01-05</sub>  |  <sub>2026-02-07</sub>    |      <sub>2026-02-15</sub>    |  <sub>2026-03-10</sub>    |
 |2026-03  |  <sub>2026-03-16</sub>  |  <sub>2026-04-20</sub>    |      <sub>2026-04-28</sub>    |  <sub>2026-05-21</sub>    |
 |2026-05  |  <sub>2026-05-25</sub>  |  <sub>2026-07-02</sub>    |      <sub>2026-07-08</sub>    |  <sub>2026-07-30</sub>    |
 |2026-08  |  <sub>2026-08-03</sub>  |  <sub>2026-09-07</sub>    |      <sub>2026-09-14</sub>    |  <sub>2026-10-08</sub>    |
@@ -66,10 +67,49 @@
 
 
 ## Past Deadlines
+- **ARR**: [ARR](#arr)
 - **NLP**: [ACL](#acl) · [EMNLP](#emnlp) · [NAACL](#naacl) · [EACL](#eacl) · [COLING](#coling) · [AACL](#aacl) · [COLM](#colm) · [LREC](#lrec)
 - **ML**: [NeurIPS](#neurips) · [ICML](#icml) · [ICLR](#iclr)
 - **AI**: [AAAI](#aaai) · [IJCAI](#ijcai) · [ECAI](#ecai)
 - **CV**: [CVPR](#cvpr) · [ICCV](#iccv) · [ECCV](#eccv)
+
+
+### ARR
+Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the cycle end date (when reviews and meta-reviews are released to authors).
+
+[ARR-2025](https://aclrollingreview.org/dates)
+|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
+| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2025-02  |  <sub>2025-02-15</sub>  |  -    |      <sub>2025-03-27</sub>    |  <sub>2025-04-15</sub>    |
+|2025-05  |  <sub>2025-05-19</sub>  |  <sub>2025-06-18</sub>    |      <sub>2025-06-26</sub>    |  <sub>2025-07-23</sub>    |
+|2025-07  |  <sub>2025-07-28</sub>  |  <sub>2025-09-02</sub>    |      <sub>2025-09-09</sub>    |  <sub>2025-10-02</sub>    |
+|2025-10  |  <sub>2025-10-06</sub>  |  <sub>2025-11-10</sub>    |      <sub>2025-11-18</sub>    |  <sub>2025-12-11</sub>    |
+
+ARR-2024
+|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
+| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2024-02  |  <sub>2024-02-15</sub>  |  -    |      <sub>2024-03-26</sub>    |  <sub>2024-04-15</sub>    |
+|2024-04  |  <sub>2024-04-15</sub>  |  -    |      <sub>2024-05-23</sub>    |  <sub>2024-06-15</sub>    |
+|2024-06  |  <sub>2024-06-15</sub>  |  -    |      <sub>2024-07-25</sub>    |  <sub>2024-08-15</sub>    |
+|2024-08  |  <sub>2024-08-15</sub>  |  -    |      <sub>2024-09-25</sub>    |  <sub>2024-10-15</sub>    |
+|2024-10  |  <sub>2024-10-15</sub>  |  -    |      <sub>2024-11-22</sub>    |  <sub>2024-12-15</sub>    |
+|2024-12  |  <sub>2024-12-15</sub>  |  -    |      <sub>2025-01-24</sub>    |  <sub>2025-02-15</sub>    |
+
+ARR-2023
+|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
+| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2023-02  |  <sub>2023-02-15</sub>  |  -    |      <sub>2023-03-27</sub>    |  <sub>2023-04-15</sub>    |
+|2023-04  |  <sub>2023-04-15</sub>  |  -    |      <sub>2023-05-27</sub>    |  <sub>2023-06-15</sub>    |
+|2023-06  |  <sub>2023-06-15</sub>  |  -    |      <sub>2023-07-28</sub>    |  <sub>2023-08-15</sub>    |
+|2023-08  |  <sub>2023-08-15</sub>  |  -    |      <sub>2023-09-27</sub>    |  <sub>2023-10-15</sub>    |
+|2023-10  |  <sub>2023-10-15</sub>  |  -    |      <sub>2023-11-23</sub>    |  <sub>2023-12-15</sub>    |
+|2023-12  |  <sub>2023-12-15</sub>  |  -    |      <sub>2024-01-22</sub>    |  <sub>2024-02-15</sub>    |
+
+[ARR-2022](https://aclrollingreview.org/key-changes-in-the-october-cycle/)
+|  Cycle  |  Submission  |  Reviews due   |  Author Response   |  Meta-reviews  |
+| :---:   |    :----:    |     :---:      |        :---:       |   :---:        |
+|2022-10  |  <sub>2022-10-15</sub>  |  -    |      -    |  <sub>2022-12-15</sub>    |
+|2022-12  |  <sub>2022-12-15</sub>  |  <sub>2023-01-23</sub>    |      <sub>2023-01-30</sub>    |  <sub>2023-02-08</sub>    |
 
 
 ### ACL
