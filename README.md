@@ -118,14 +118,14 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### EACL
-|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[EACL-26](https://2026.eacl.org/) | <sub>2025-10-06</sub> | <sub>2025-12-14</sub> | <sub>2026-01-03</sub> | <sub>2026-03-24</sub> | <sub>Rabat, Morocco</sub> |
-|EACL-25 | - | - | - | - | - |
-|[EACL-24](https://2024.eacl.org/) | <sub>2023-10-15</sub> | <sub>2023-12-20</sub> | <sub>2024-01-17</sub> | <sub>2024-03-17</sub> | <sub>St. Julian's, Malta</sub> |
-|[EACL-23](https://2023.eacl.org/) | <sub>2022-10-13</sub> | <sub>2023-01-08</sub> | <sub>2023-01-20</sub> | <sub>2023-05-02</sub> | <sub>Dubrovnik, Croatia</sub> |
-|EACL-22 | - | - | - | - | - |
-|[EACL-21](https://2021.eacl.org/) | <sub>2020-10-07</sub> | - | <sub>2021-01-11</sub> | <sub>2021-04-19</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Commitment |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[EACL-26](https://2026.eacl.org/) | <sub>2025-10-06</sub> | <sub>2025-12-14</sub> | <sub>2026-01-03</sub> | <sub>2026-03-24</sub> | <sub>Rabat, Morocco</sub> | <sub>[Papers](https://aclanthology.org/events/eacl-2026/)</sub> |
+|EACL-25 | - | - | - | - | - | - |
+|[EACL-24](https://2024.eacl.org/) | <sub>2023-10-15</sub> | <sub>2023-12-20</sub> | <sub>2024-01-17</sub> | <sub>2024-03-17</sub> | <sub>St. Julian's, Malta</sub> | <sub>[Papers](https://aclanthology.org/events/eacl-2024/)</sub> |
+|[EACL-23](https://2023.eacl.org/) | <sub>2022-10-13</sub> | <sub>2023-01-08</sub> | <sub>2023-01-20</sub> | <sub>2023-05-02</sub> | <sub>Dubrovnik, Croatia</sub> | <sub>[Papers](https://aclanthology.org/events/eacl-2023/)</sub> |
+|EACL-22 | - | - | - | - | - | - |
+|[EACL-21](https://2021.eacl.org/) | <sub>2020-10-07</sub> | - | <sub>2021-01-11</sub> | <sub>2021-04-19</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aclanthology.org/events/eacl-2021/)</sub> |
 
 
 ### COLING
