@@ -181,37 +181,37 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 
 
 ### AAAI
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | <sub>Singapore</sub> |
-|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/) | <sub>2024-08-07</sub> | <sub>2024-11-04</sub> | <sub>2024-12-09</sub> | <sub>2025-02-25</sub> | <sub>Philadelphia, US</sub> |
-|[AAAI-24](https://aaai.org/conference/aaai/aaai-24/) | <sub>2023-08-08</sub> | <sub>2023-11-02</sub> | <sub>2023-12-09</sub> | <sub>2024-02-20</sub> | <sub>Vancouver, Canada</sub> |
-|[AAAI-23](https://aaai-23.aaai.org/) | <sub>2022-08-08</sub> | <sub>2022-10-20</sub> | <sub>2022-11-18</sub> | <sub>2023-02-07</sub> | <sub>Washington DC, US</sub> |
-|[AAAI-22](https://aaai.org/conference/aaai/aaai-22/) | <sub>2021-08-30</sub> | - | <sub>2021-11-29</sub> | <sub>2022-02-22</sub> | <sub>Virtual</sub> |
-|[AAAI-21](https://aaai.org/conference/aaai/aaai-21/) | <sub>2020-09-01</sub> | - | <sub>2020-12-01</sub> | <sub>2021-02-02</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[AAAI-26](https://aaai.org/conference/aaai/aaai-26/) | <sub>2025-07-25</sub> | <sub>2025-10-07</sub> | <sub>2025-11-08</sub> | <sub>2026-01-20</sub> | <sub>Singapore</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-40-2026/)</sub> |
+|[AAAI-25](https://aaai.org/conference/aaai/aaai-25/) | <sub>2024-08-07</sub> | <sub>2024-11-04</sub> | <sub>2024-12-09</sub> | <sub>2025-02-25</sub> | <sub>Philadelphia, US</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-39-2025/)</sub> |
+|[AAAI-24](https://aaai.org/conference/aaai/aaai-24/) | <sub>2023-08-08</sub> | <sub>2023-11-02</sub> | <sub>2023-12-09</sub> | <sub>2024-02-20</sub> | <sub>Vancouver, Canada</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-38-2024/)</sub> |
+|[AAAI-23](https://aaai-23.aaai.org/) | <sub>2022-08-08</sub> | <sub>2022-10-20</sub> | <sub>2022-11-18</sub> | <sub>2023-02-07</sub> | <sub>Washington DC, US</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-37-2023/)</sub> |
+|[AAAI-22](https://aaai.org/conference/aaai/aaai-22/) | <sub>2021-08-30</sub> | - | <sub>2021-11-29</sub> | <sub>2022-02-22</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-36-2022/)</sub> |
+|[AAAI-21](https://aaai.org/conference/aaai/aaai-21/) | <sub>2020-09-01</sub> | - | <sub>2020-12-01</sub> | <sub>2021-02-02</sub> | <sub>Virtual</sub> | <sub>[Papers](https://aaai.org/proceeding/aaai-35-2021/)</sub> |
 
 
 ### IJCAI
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> |
-|[IJCAI-25](https://2025.ijcai.org/) | <sub>2025-01-16</sub> | <sub>2025-04-06</sub> | <sub>2025-04-28</sub> | <sub>2025-08-16</sub> | <sub>Montreal, Canada</sub> |
-|[IJCAI-24](https://ijcai24.org/) | <sub>2024-01-10</sub> | <sub>2024-03-18</sub> | <sub>2024-04-16</sub> | <sub>2024-08-03</sub> | <sub>Jeju, Korea</sub> |
-|[IJCAI-23](https://ijcai-23.org/) | <sub>2023-01-11</sub> | <sub>2023-03-20</sub> | <sub>2023-04-19</sub> | <sub>2023-08-19</sub> | <sub>Macao, China</sub> |
-|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | <sub>Vienna, Austria</sub> |
-|[IJCAI-21](https://ijcai-21.org/) | <sub>2021-01-13</sub> | <sub>2021-03-24</sub> | <sub>2021-04-30</sub> | <sub>2021-08-19</sub> | <sub>Virtual</sub> |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2026/)</sub> |
+|[IJCAI-25](https://2025.ijcai.org/) | <sub>2025-01-16</sub> | <sub>2025-04-06</sub> | <sub>2025-04-28</sub> | <sub>2025-08-16</sub> | <sub>Montreal, Canada</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2025/)</sub> |
+|[IJCAI-24](https://ijcai24.org/) | <sub>2024-01-10</sub> | <sub>2024-03-18</sub> | <sub>2024-04-16</sub> | <sub>2024-08-03</sub> | <sub>Jeju, Korea</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2024/)</sub> |
+|[IJCAI-23](https://ijcai-23.org/) | <sub>2023-01-11</sub> | <sub>2023-03-20</sub> | <sub>2023-04-19</sub> | <sub>2023-08-19</sub> | <sub>Macao, China</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2023/)</sub> |
+|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | <sub>Vienna, Austria</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2022/)</sub> |
+|[IJCAI-21](https://ijcai-21.org/) | <sub>2021-01-13</sub> | <sub>2021-03-24</sub> | <sub>2021-04-30</sub> | <sub>2021-08-19</sub> | <sub>Virtual</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2021/)</sub> |
 
 
 
 ### ECAI
-|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |
-| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |
-|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> |
-|[ECAI-25](https://ecai2025.org/) | <sub>2025-04-29</sub> | <sub>2025-06-23</sub> | <sub>2025-07-10</sub> | <sub>2025-10-25</sub> | <sub>Bologna, Italy</sub> |
-|[ECAI-24](https://ecai2024.eu/) | <sub>2024-04-19</sub> | <sub>2024-06-17</sub> | <sub>2024-07-04</sub> | <sub>2024-10-19</sub> | <sub>Spain</sub> |
-|[ECAI-23](https://ecai2023.syskonf.pl/) | <sub>2023-05-02</sub> | <sub>2023-06-25</sub> | <sub>2023-07-15</sub> | <sub>2023-09-30</sub> | <sub>Kraków, Poland</sub> |
-|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | <sub>Vienna, Austria</sub> |
-|ECAI-21 | - | - | - | - | - |
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[IJCAI-ECAI-26](https://2026.ijcai.org/) | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2026/)</sub> |
+|[ECAI-25](https://ecai2025.org/) | <sub>2025-04-29</sub> | <sub>2025-06-23</sub> | <sub>2025-07-10</sub> | <sub>2025-10-25</sub> | <sub>Bologna, Italy</sub> | <sub>[Papers](https://ebooks.iospress.nl/volume/ecai-2025-28th-european-conference-on-artificial-intelligence-bologna-including-14th-conference-on-prestigious-applications-of-intelligent-systems-pais-2025)</sub> |
+|[ECAI-24](https://ecai2024.eu/) | <sub>2024-04-19</sub> | <sub>2024-06-17</sub> | <sub>2024-07-04</sub> | <sub>2024-10-19</sub> | <sub>Spain</sub> | <sub>[Papers](https://ebooks.iospress.nl/volume/ecai-2024-27th-european-conference-on-artificial-intelligence-1924-october-2024-santiago-de-compostela-spain-including-pais-2024)</sub> |
+|[ECAI-23](https://ecai2023.syskonf.pl/) | <sub>2023-05-02</sub> | <sub>2023-06-25</sub> | <sub>2023-07-15</sub> | <sub>2023-09-30</sub> | <sub>Kraków, Poland</sub> | <sub>[Papers](https://ebooks.iospress.nl/volume/ecai-2023-26th-european-conference-on-artificial-intelligence-including-12th-conference-on-prestigious-applications-of-intelligent-systems-pais-2023)</sub> |
+|[IJCAI-ECAI-22](https://ijcai-22.org/) | <sub>2022-01-07</sub> | <sub>2022-03-16</sub> | <sub>2022-04-20</sub> | <sub>2022-07-23</sub> | <sub>Vienna, Austria</sub> | <sub>[Papers](https://www.ijcai.org/proceedings/2022/)</sub> |
+|ECAI-21 | - | - | - | - | - | - |
 
 
 ### COLM
