@@ -30,7 +30,7 @@
 |[LREC-26](https://lrec2026.info/)                      | <sub>2025-10-24</sub> | - | <sub>2026-02-13</sub> | <sub>2026-05-11</sub> | <sub>Mallorca, Spain</sub> |
 |[IJCAI-ECAI-26](https://2026.ijcai.org/)                | <sub>2026-01-12</sub> | <sub>2026-04-07</sub> | <sub>2026-04-29</sub> | <sub>2026-08-15</sub> | <sub>Bremen, Germany</sub> |
 |[COLM-26](https://colm.cc/Conferences/2026)            | <sub>2026-03-26</sub> | <sub>2026-05-22</sub> | <sub>2026-07-08</sub> | <sub>2026-10-06</sub> | <sub>San Francisco, US</sub> |
-|[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | 2026-10-19 | 2026-11-30 | 2027-02-16 | Montréal, Canada |
+|[AAAI-27](https://aaai.org/conference/aaai/aaai-27/)    | <sub>2026-07-21</sub> | <sub>2026-10-19</sub> | 2026-11-30 | 2027-02-16 | Montréal, Canada |
 |[IJCAI-27](https://2027.ijcai.org/)                     | 2027-01-04 | 2027-03 (e) | 2027-04-21 | 2027-08-07 | Kyoto, Japan |
 |[COLM-27]()                                             | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | 2027-10 (e) | TBA |
 |[ECAI-27](https://ecai2027.org/)                        | 2027-04-14 | 2027-06-15 | 2027-07-15 | 2027-10-02 | Athens, Greece |
