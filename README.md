@@ -43,7 +43,7 @@
 |[ICLR-26](https://iclr.cc/Conferences/2026)             | <sub>2025-09-19</sub> | <sub>2025-11-11</sub> | <sub>2026-01-25</sub> | <sub>2026-04-23</sub> | <sub>Brazil</sub> |
 |[ICML-26](https://icml.cc/Conferences/2026)             | <sub>2026-01-23</sub> | <sub>2026-03-24</sub> | <sub>2026-04-30</sub> | <sub>2026-07-07</sub> | <sub>South Korea</sub> |
 |[NeurIPS-26](https://neurips.cc/Conferences/2026)       | <sub>2026-05-04</sub> | <sub>2026-07-22</sub> | <sub>2026-09-24</sub> | 2026-12-08 | Sydney, Australia |
-|[ICLR-27](https://iclr.cc/Conferences/2027)             | <sub>2026-09-18</sub> | 2026-11-05 | 2026-12-16 | 2027-04-26 | California, US |
+|[ICLR-27](https://iclr.cc/Conferences/2027)             | <sub>2026-09-18</sub> | <sub>2026-11-05</sub> | 2026-12-16 | 2027-04-26 | California, US |
 |[ICML-27]()                                             | 2027-01 (e) | 2027-03 (e) | 2027-05 (e) | 2027-07 (e) | South America (TBA) |
 |[NeurIPS-27]()                                          | 2027-05 (e) | 2027-07 (e) | 2027-09 (e) | 2027-12 (e) | Europe (TBA) |
 
