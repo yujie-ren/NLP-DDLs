@@ -53,7 +53,7 @@
 |[ICCV-25](https://iccv.thecvf.com/Conferences/2025)     | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | <sub>Honolulu, US</sub> |
 |[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | <sub>Denver, US</sub> |
 |[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> |
-|[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | 2026-11-10 | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
+|[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | <sub>2026-11-10</sub> | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
 |[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) | 2027-05 (e) | 2027-06 (e) | 2027-10-03 | Hong Kong, China |
 |[ECCV-28]()                                             | 2028-02 (e) | 2028-05 (e) | 2028-06 (e) | 2028-09 (e) | TBA |
 
