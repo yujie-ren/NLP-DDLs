@@ -16,7 +16,7 @@
 |[ACL-26](https://2026.aclweb.org/)             | <sub>2026-01-05</sub> | <sub>2026-03-14</sub> | <sub>2026-04-04</sub> | <sub>2026-07-02</sub> | <sub>San Diego, North America</sub> |
 |[EMNLP-26](https://2026.emnlp.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-02</sub> | <sub>2026-08-20</sub> | <sub>2026-10-24</sub> | <sub>Budapest, Europe</sub> |
 |[AACL-26](https://2026.aaclnet.org/)            | <sub>2026-05-25</sub> | <sub>2026-08-07</sub> | <sub>2026-09-07</sub> | <sub>2026-11-06</sub> | <sub>Hengqin, China</sub> |
-|[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | 2026-11-12 | 2027-03-09 | Athens, Europe |
+|[EACL-27](https://2027.eacl.org/)              | <sub>2026-08-03</sub> | <sub>2026-10-11</sub> | <sub>2026-11-12</sub> | 2027-03-09 | Athens, Europe |
 |[NAACL-27](https://2027.naacl.org/)            | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-06-01 | San Francisco, US |
 |[COLING-27](https://2027.coling-iccl.org/)     | <sub>2026-10-12</sub> | 2026-12-23 | 2027-02-10 | 2027-05-09 | Macau, China |
 |[ACL-27](https://2027.aclweb.org/)             | 2027-01-04 | 2027-03 (e) | 2027-04 (e) | 2027-08-17 | Kyoto, Japan |
