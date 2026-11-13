@@ -53,16 +53,18 @@
 |[ICCV-25](https://iccv.thecvf.com/Conferences/2025)     | <sub>2025-03-03</sub> | <sub>2025-05-09</sub> | <sub>2025-06-25</sub> | <sub>2025-10-19</sub> | <sub>Honolulu, US</sub> |
 |[CVPR-26](https://cvpr.thecvf.com/Conferences/2026)     | <sub>2025-11-07</sub> | <sub>2026-01-22</sub> | <sub>2026-02-20</sub> | <sub>2026-06-03</sub> | <sub>Denver, US</sub> |
 |[ECCV-26](https://eccv.ecva.net/Conferences/2026)       | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> |
+|[ACM MM-26](https://2026.acmmm.org/)                    | <sub>2026-04-01</sub> | <sub>2026-06-04</sub> | <sub>2026-07-09</sub> | <sub>2026-11-10</sub> | <sub>Rio de Janeiro, Brazil</sub> |
 |[CVPR-27](https://cvpr.thecvf.com/Conferences/2027)     | <sub>2026-11-10</sub> | 2027-01-25 | 2027-02-25 | 2027-06-20 | Seattle, US (TBC) |
 |[ICCV-27](https://iccv.thecvf.com/Conferences/2027)     | 2027-03 (e) | 2027-05 (e) | 2027-06 (e) | 2027-10-03 | Hong Kong, China |
+|[ACM MM-27](https://acmmm.org/)                         | 2027-04 (e) | 2027-06 (e) | 2027-07 (e) | 2027-10 (e) | Hong Kong, China |
 |[ECCV-28]()                                             | 2028-02 (e) | 2028-05 (e) | 2028-06 (e) | 2028-09 (e) | TBA |
 
 
 ## Conf Rankings
-|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |AACL|COLM|LREC|NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|
-| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |- |- |B |A*|A*|A*|A*|A*|A |A*|A*|A*|
-| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |- |- |- |A |A |A |A |B |B |A |A |B |
+|  Conf  |   ACL   |   EMNLP  |   NAACL  | EACL | COLING |AACL|COLM|LREC|NeurIPS|ICML|ICLR|AAAI|IJCAI|ECAI|CVPR|ICCV|ECCV|ACM MM|
+| :---:  | :----:  |   :---:  |  :---:   | :---:|  :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| [CORE2026](https://portal.core.edu.au/conf-ranks/) | A* | A* | A | A | B |- |- |B |A*|A*|A*|A*|A*|A |A*|A*|A*|A* |
+| [CCF2026](https://www.ccf.org.cn/)                 | A  | B  | B | - | B |- |- |- |A |A |A |A |B |B |A |A |B |A |
 
 
 
@@ -72,6 +74,7 @@
 - **ML**: [NeurIPS](#neurips) · [ICML](#icml) · [ICLR](#iclr)
 - **AI**: [AAAI](#aaai) · [IJCAI](#ijcai) · [ECAI](#ecai)
 - **CV**: [CVPR](#cvpr) · [ICCV](#iccv) · [ECCV](#eccv)
+- **Multimedia**: [ACM MM](#acm-mm)
 
 
 ### ARR
@@ -255,3 +258,14 @@ Before May 2025, ARR ran 8-week cycles; for those cycles, Meta-reviews lists the
 |[ECCV-26](https://eccv.ecva.net/Conferences/2026) | <sub>2026-02-26</sub> | <sub>2026-05-02</sub> | <sub>2026-06-17</sub> | <sub>2026-09-08</sub> | <sub>Malmö, Sweden</sub> | <sub>[Papers](https://eccv.ecva.net/virtual/2026/papers.html)</sub> |
 |[ECCV-24](https://eccv.ecva.net/Conferences/2024) | <sub>2024-02-29</sub> | <sub>2024-05-09</sub> | <sub>2024-07-01</sub> | <sub>2024-09-29</sub> | <sub>Milan, Italy</sub> | <sub>[Papers](https://eccv.ecva.net/virtual/2024/papers.html)</sub> |
 |[ECCV-22](https://eccv2022.ecva.net/) | <sub>2022-03-07</sub> | <sub>2022-05-23</sub> | <sub>2022-07-03</sub> | <sub>2022-10-23</sub> | <sub>Tel Aviv, Israel</sub> | <sub>[Papers](https://www.ecva.net/papers.php)</sub> |
+
+
+### ACM MM
+|  Conf  | Submission    | Rebuttal Begins |   Notification  |   Conference  |  Location  |  Papers  |
+| :---:  |    :----:     |     :---:       |     :---:     |  :---:   |   :---:   |   :---:   |
+|[ACM MM-26](https://2026.acmmm.org/) | <sub>2026-04-01</sub> | <sub>2026-06-04</sub> | <sub>2026-07-09</sub> | <sub>2026-11-10</sub> | <sub>Rio de Janeiro, Brazil</sub> | <sub>[Papers](https://dl.acm.org/conference/mm/proceedings)</sub> |
+|[ACM MM-25](https://acmmm2025.org/) | <sub>2025-04-11</sub> | <sub>2025-06-09</sub> | <sub>2025-07-04</sub> | <sub>2025-10-27</sub> | <sub>Dublin, Ireland</sub> | <sub>[Papers](https://dl.acm.org/doi/proceedings/10.1145/3746027)</sub> |
+|[ACM MM-24](https://2024.acmmm.org/) | <sub>2024-04-12</sub> | <sub>2024-06-10</sub> | <sub>2024-07-08</sub> | <sub>2024-10-28</sub> | <sub>Melbourne, Australia</sub> | <sub>[Papers](https://dl.acm.org/doi/proceedings/10.1145/3664647)</sub> |
+|[ACM MM-23](https://www.acmmm2023.org/) | <sub>2023-05-11</sub> | <sub>2023-07-01</sub> | <sub>2023-07-25</sub> | <sub>2023-10-29</sub> | <sub>Ottawa, Canada</sub> | <sub>[Papers](https://dl.acm.org/doi/proceedings/10.1145/3581783)</sub> |
+|[ACM MM-22](https://2022.acmmm.org/) | <sub>2022-04-07</sub> | <sub>2022-05-26</sub> | <sub>2022-06-29</sub> | <sub>2022-10-10</sub> | <sub>Lisbon, Portugal</sub> | <sub>[Papers](https://dl.acm.org/doi/proceedings/10.1145/3503161)</sub> |
+|[ACM MM-21](https://2021.acmmm.org/) | - | - | - | <sub>2021-10-20</sub> | <sub>Chengdu, China</sub> | <sub>[Papers](https://dl.acm.org/doi/proceedings/10.1145/3474085)</sub> |
